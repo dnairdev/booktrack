@@ -2,8 +2,9 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import books from '@/data/books.json';
 import songs from '@/data/songs.json';
+import bookSongMapping from '@/data/bookSongMapping.json';
 import { Book, Song } from '@/lib/types';
-import { matchThemeSong } from '@/lib/matchThemeSong';
+import { getMatchResultForSong } from '@/lib/matchThemeSong';
 import SongCard from '@/components/SongCard';
 import VibeMeter from '@/components/VibeMeter';
 import BookCover from '@/components/BookCover';
@@ -42,8 +43,21 @@ export default async function BookPage({ params }: BookPageProps) {
     notFound();
   }
 
-  // Get the theme song match
-  const matchResult = matchThemeSong(book, songs as Song[]);
+  // Get the theme song from pre-computed unique mapping
+  const songId = (bookSongMapping as Record<string, string>)[book.id];
+  const song = (songs as Song[]).find((s) => s.id === songId);
+
+  if (!song) {
+    notFound();
+  }
+
+  const matchResult = getMatchResultForSong(book, song);
+
+  // Get previous and next books for navigation
+  const bookList = books as Book[];
+  const currentIndex = bookList.findIndex((b) => b.id === id);
+  const prevBook = currentIndex > 0 ? bookList[currentIndex - 1] : null;
+  const nextBook = currentIndex < bookList.length - 1 ? bookList[currentIndex + 1] : null;
 
   return (
     <div
@@ -59,6 +73,50 @@ export default async function BookPage({ params }: BookPageProps) {
           background: 'radial-gradient(ellipse at 50% 0%, rgba(255,180,100,0.08) 0%, transparent 60%)',
         }}
       />
+
+      {/* Book Navigation Arrows */}
+      {prevBook && (
+        <Link
+          href={`/book/${prevBook.id}`}
+          className="fixed left-4 top-1/2 -translate-y-1/2 z-40 p-3 rounded-full bg-black/50 backdrop-blur-sm border border-amber-900/30 text-stone-300 hover:text-amber-400 hover:bg-black/70 transition-all group"
+          title={prevBook.title}
+        >
+          <svg
+            className="w-6 h-6"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M15 19l-7-7 7-7"
+            />
+          </svg>
+        </Link>
+      )}
+      {nextBook && (
+        <Link
+          href={`/book/${nextBook.id}`}
+          className="fixed right-4 top-1/2 -translate-y-1/2 z-40 p-3 rounded-full bg-black/50 backdrop-blur-sm border border-amber-900/30 text-stone-300 hover:text-amber-400 hover:bg-black/70 transition-all group"
+          title={nextBook.title}
+        >
+          <svg
+            className="w-6 h-6"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M9 5l7 7-7 7"
+            />
+          </svg>
+        </Link>
+      )}
 
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-black/40 backdrop-blur-md border-b border-amber-900/30">

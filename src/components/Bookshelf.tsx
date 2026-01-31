@@ -43,19 +43,19 @@ function inferGenre(book: Book): BookGenre {
   return bestMatch?.genre || 'Literary Fiction';
 }
 
-// Genre colors for shelf labels
+// Genre colors for shelf labels (uniform amber theme)
 const GENRE_COLORS: Record<BookGenre, string> = {
-  'Literary Fiction': 'from-stone-600 to-stone-700',
-  'Romance': 'from-rose-600 to-rose-700',
-  'Fantasy': 'from-purple-600 to-purple-700',
-  'Science Fiction': 'from-cyan-600 to-cyan-700',
-  'Mystery & Thriller': 'from-slate-600 to-slate-700',
-  'Horror & Gothic': 'from-zinc-700 to-zinc-800',
-  'Dark Academia': 'from-amber-700 to-amber-800',
+  'Literary Fiction': 'from-amber-600 to-amber-700',
+  'Romance': 'from-amber-600 to-amber-700',
+  'Fantasy': 'from-amber-600 to-amber-700',
+  'Science Fiction': 'from-amber-600 to-amber-700',
+  'Mystery & Thriller': 'from-amber-600 to-amber-700',
+  'Horror & Gothic': 'from-amber-600 to-amber-700',
+  'Dark Academia': 'from-amber-600 to-amber-700',
   'Classics': 'from-amber-600 to-amber-700',
-  'Contemporary Fiction': 'from-teal-600 to-teal-700',
-  'Historical Fiction': 'from-orange-600 to-orange-700',
-  'Young Adult': 'from-pink-500 to-pink-600',
+  'Contemporary Fiction': 'from-amber-600 to-amber-700',
+  'Historical Fiction': 'from-amber-600 to-amber-700',
+  'Young Adult': 'from-amber-600 to-amber-700',
 };
 
 // Single book on the shelf

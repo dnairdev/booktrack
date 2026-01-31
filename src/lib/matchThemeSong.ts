@@ -349,3 +349,131 @@ export function getTopMatches(book: Book, songs: Song[], n: number = 5): MatchRe
     .sort((a, b) => b.totalScore - a.totalScore)
     .slice(0, n);
 }
+
+/**
+ * Matches all books to unique songs using a greedy algorithm.
+ * Each song can only be assigned to one book.
+ *
+ * ALGORITHM:
+ * 1. Calculate scores for all book-song pairs
+ * 2. Sort pairs by score descending
+ * 3. Greedily assign highest-scoring unassigned pairs
+ * 4. Each book and song can only be used once
+ *
+ * @param books - All books to match
+ * @param songs - All available songs
+ * @returns Map of book ID to MatchResult with unique song assignments
+ */
+/**
+ * Gets a MatchResult for a specific book-song pair.
+ * Used when looking up pre-computed assignments from bookSongMapping.json
+ */
+export function getMatchResultForSong(book: Book, song: Song): MatchResult {
+  const songVibeVector = deriveVibeVector(song.audio);
+  const tagScore = jaccardSimilarity(book.vibeTags, song.vibeTags);
+  const vectorScore = cosineSimilarity(book.vibeVector, songVibeVector);
+  const penalties = calculatePenalties(book, songVibeVector, song.audio);
+
+  const totalScore =
+    (tagScore * TAG_WEIGHT) +
+    (vectorScore * VECTOR_WEIGHT) +
+    penalties.total;
+
+  const topFactors = generateScoringFactors(
+    book,
+    song,
+    songVibeVector,
+    tagScore,
+    vectorScore,
+    penalties.factors
+  );
+
+  return {
+    song,
+    totalScore,
+    tagScore,
+    vectorScore,
+    penaltyScore: penalties.total,
+    topFactors
+  };
+}
+
+export function matchAllBooksUniquely(
+  books: Book[],
+  songs: Song[]
+): Map<string, MatchResult> {
+  // Calculate all pairwise scores
+  interface ScoredPair {
+    book: Book;
+    song: Song;
+    result: MatchResult;
+  }
+
+  const allPairs: ScoredPair[] = [];
+
+  for (const book of books) {
+    for (const song of songs) {
+      const songVibeVector = deriveVibeVector(song.audio);
+      const tagScore = jaccardSimilarity(book.vibeTags, song.vibeTags);
+      const vectorScore = cosineSimilarity(book.vibeVector, songVibeVector);
+      const penalties = calculatePenalties(book, songVibeVector, song.audio);
+
+      const totalScore =
+        (tagScore * TAG_WEIGHT) +
+        (vectorScore * VECTOR_WEIGHT) +
+        penalties.total;
+
+      const topFactors = generateScoringFactors(
+        book,
+        song,
+        songVibeVector,
+        tagScore,
+        vectorScore,
+        penalties.factors
+      );
+
+      allPairs.push({
+        book,
+        song,
+        result: {
+          song,
+          totalScore,
+          tagScore,
+          vectorScore,
+          penaltyScore: penalties.total,
+          topFactors
+        }
+      });
+    }
+  }
+
+  // Sort by score descending
+  allPairs.sort((a, b) => b.result.totalScore - a.result.totalScore);
+
+  // Greedy assignment
+  const assignments = new Map<string, MatchResult>();
+  const usedSongIds = new Set<string>();
+  const assignedBookIds = new Set<string>();
+
+  for (const pair of allPairs) {
+    const bookId = pair.book.id;
+    const songId = pair.song.id;
+
+    // Skip if book already assigned or song already used
+    if (assignedBookIds.has(bookId) || usedSongIds.has(songId)) {
+      continue;
+    }
+
+    // Assign this pair
+    assignments.set(bookId, pair.result);
+    usedSongIds.add(songId);
+    assignedBookIds.add(bookId);
+
+    // Check if all books are assigned
+    if (assignedBookIds.size === books.length) {
+      break;
+    }
+  }
+
+  return assignments;
+}

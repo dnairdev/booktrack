@@ -304,25 +304,6 @@
     "vibeBlurb": "A friendship that spans decades and holds everything. The body's memory of pain that never fully heals. Love as fierce protection against an unforgiving world."
   },
   {
-    "id": "the-seven-husbands-of-evelyn-hugo",
-    "title": "The Seven Husbands of Evelyn Hugo",
-    "author": "Taylor Jenkins Reid",
-    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781501161933-L.jpg",
-    "vibeTags": ["glamorous", "romantic", "nostalgic", "dramatic", "Hollywood", "passionate", "sapphic"],
-    "vibeVector": {
-      "melancholy": 0.6,
-      "intimacy": 0.75,
-      "intensity": 0.7,
-      "hope": 0.5,
-      "tension": 0.55,
-      "warmth": 0.6,
-      "nostalgia": 0.85,
-      "eeriness": 0.1,
-      "pace": 0.6
-    },
-    "vibeBlurb": "Golden Age Hollywood glamour hiding a forbidden love. The costumes we wear to survive, the truths we only tell at the end. Ambition and devotion in equal measure."
-  },
-  {
     "id": "the-picture-of-dorian-gray",
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",

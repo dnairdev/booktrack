@@ -39,6 +39,18 @@ export default function SongCard({ matchResult }: SongCardProps) {
           </div>
         </div>
 
+        {/* Song vibe tags */}
+        <div className="flex flex-wrap gap-2 mt-4">
+          {song.vibeTags.map((tag) => (
+            <span
+              key={tag}
+              className="px-3 py-1 text-sm rounded-full bg-amber-900/40 text-amber-200 border border-amber-700/30"
+            >
+              {tag}
+            </span>
+          ))}
+        </div>
+
         {/* Song mood blurb */}
         <p className="mt-4 text-stone-300 italic leading-relaxed">
           &ldquo;{song.moodBlurb}&rdquo;
