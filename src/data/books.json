@@ -1,0 +1,2016 @@
+[
+  {
+    "id": "the-great-gatsby",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+    "vibeTags": ["decadent", "nostalgic", "romantic", "tragic", "glamorous", "yearning", "summer"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.6,
+      "intensity": 0.65,
+      "hope": 0.4,
+      "tension": 0.55,
+      "warmth": 0.5,
+      "nostalgia": 0.95,
+      "eeriness": 0.2,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Champagne-soaked summer nights that taste bittersweet. A green light across the water, always just out of reach. The ache of wanting something so badly it destroys you."
+  },
+  {
+    "id": "normal-people",
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781984822178-L.jpg",
+    "vibeTags": ["intimate", "tender", "melancholic", "quiet", "yearning", "contemporary", "raw"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.95,
+      "intensity": 0.4,
+      "hope": 0.55,
+      "tension": 0.45,
+      "warmth": 0.65,
+      "nostalgia": 0.5,
+      "eeriness": 0.1,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Quiet afternoons and unspoken feelings. Two people orbiting each other through years, always connected by invisible threads. The exquisite pain of knowing someone completely."
+  },
+  {
+    "id": "the-secret-history",
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781400031702-L.jpg",
+    "vibeTags": ["dark-academia", "atmospheric", "intense", "mysterious", "literary", "obsessive", "autumnal"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.55,
+      "intensity": 0.85,
+      "hope": 0.15,
+      "tension": 0.9,
+      "warmth": 0.25,
+      "nostalgia": 0.6,
+      "eeriness": 0.75,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Ivy-covered walls hiding terrible secrets. The intoxicating pull of beauty and knowledge taken too far. Ancient Greek texts and modern guilt intertwined like poison and wine."
+  },
+  {
+    "id": "pride-and-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+    "vibeTags": ["witty", "romantic", "elegant", "warm", "countryside", "hopeful", "classic"],
+    "vibeVector": {
+      "melancholy": 0.2,
+      "intimacy": 0.6,
+      "intensity": 0.4,
+      "hope": 0.85,
+      "tension": 0.5,
+      "warmth": 0.8,
+      "nostalgia": 0.55,
+      "eeriness": 0.0,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Sunlit country estates and sparkling conversation. The slow bloom of understanding between two stubborn hearts. Dancing at balls where every glance means everything."
+  },
+  {
+    "id": "1984",
+    "title": "1984",
+    "author": "George Orwell",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+    "vibeTags": ["dystopian", "oppressive", "bleak", "intense", "cold", "paranoid", "political"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.3,
+      "intensity": 0.9,
+      "hope": 0.05,
+      "tension": 0.95,
+      "warmth": 0.1,
+      "nostalgia": 0.4,
+      "eeriness": 0.85,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Grey corridors and watchful eyes. The crushing weight of a world where even your thoughts aren't safe. Love as an act of rebellion against infinite darkness."
+  },
+  {
+    "id": "the-song-of-achilles",
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780062060624-L.jpg",
+    "vibeTags": ["epic", "romantic", "tragic", "mythic", "tender", "passionate", "Mediterranean"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.85,
+      "intensity": 0.75,
+      "hope": 0.35,
+      "tension": 0.65,
+      "warmth": 0.7,
+      "nostalgia": 0.7,
+      "eeriness": 0.15,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Sun-warmed skin and sand between your toes. A love so fierce it echoes through millennia. The terrible beauty of fate rushing toward you like waves."
+  },
+  {
+    "id": "norwegian-wood",
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780375704024-L.jpg",
+    "vibeTags": ["melancholic", "dreamy", "nostalgic", "quiet", "Japanese", "introspective", "bittersweet"],
+    "vibeVector": {
+      "melancholy": 0.9,
+      "intimacy": 0.7,
+      "intensity": 0.35,
+      "hope": 0.3,
+      "tension": 0.4,
+      "warmth": 0.45,
+      "nostalgia": 0.95,
+      "eeriness": 0.35,
+      "pace": 0.3
+    },
+    "vibeBlurb": "Rainy Tokyo evenings and memories that won't let go. The haunting space between loving and losing. Walking through fog, searching for something you can't name."
+  },
+  {
+    "id": "the-night-circus",
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385534635-L.jpg",
+    "vibeTags": ["magical", "romantic", "atmospheric", "whimsical", "mysterious", "enchanting", "Victorian"],
+    "vibeVector": {
+      "melancholy": 0.45,
+      "intimacy": 0.65,
+      "intensity": 0.6,
+      "hope": 0.6,
+      "tension": 0.55,
+      "warmth": 0.55,
+      "nostalgia": 0.65,
+      "eeriness": 0.5,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Black and white tents appearing at midnight. Magic that tastes like caramel and smells like autumn leaves. A love story written in impossible wonders."
+  },
+  {
+    "id": "wuthering-heights",
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439556-L.jpg",
+    "vibeTags": ["gothic", "passionate", "wild", "tragic", "moors", "obsessive", "stormy"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.7,
+      "intensity": 0.95,
+      "hope": 0.15,
+      "tension": 0.9,
+      "warmth": 0.2,
+      "nostalgia": 0.6,
+      "eeriness": 0.8,
+      "pace": 0.6
+    },
+    "vibeBlurb": "Wind howling across empty moors. A love so consuming it transcends death itself. Passion and cruelty twisted together like heather and thorns."
+  },
+  {
+    "id": "the-perks-of-being-a-wallflower",
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781451696196-L.jpg",
+    "vibeTags": ["coming-of-age", "tender", "nostalgic", "bittersweet", "hopeful", "youthful", "sincere"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.75,
+      "intensity": 0.5,
+      "hope": 0.7,
+      "tension": 0.35,
+      "warmth": 0.75,
+      "nostalgia": 0.85,
+      "eeriness": 0.1,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Mixtapes and late-night drives through tunnels. The overwhelming beauty of feeling infinite, even when you're breaking. Finding your people and holding on tight."
+  },
+  {
+    "id": "rebecca",
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780380730407-L.jpg",
+    "vibeTags": ["gothic", "atmospheric", "mysterious", "haunting", "romantic", "suspenseful", "coastal"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.55,
+      "intensity": 0.7,
+      "hope": 0.3,
+      "tension": 0.85,
+      "warmth": 0.25,
+      "nostalgia": 0.7,
+      "eeriness": 0.9,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Rhododendrons and sea mist clinging to stone walls. A ghost that lives in every corner, every whisper. The weight of being compared to someone you can never meet."
+  },
+  {
+    "id": "the-bell-jar",
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780060837020-L.jpg",
+    "vibeTags": ["introspective", "suffocating", "literary", "raw", "melancholic", "feminist", "1950s"],
+    "vibeVector": {
+      "melancholy": 0.95,
+      "intimacy": 0.65,
+      "intensity": 0.6,
+      "hope": 0.2,
+      "tension": 0.7,
+      "warmth": 0.15,
+      "nostalgia": 0.4,
+      "eeriness": 0.6,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Looking at the world through thick glass. The slow suffocation of expectations pressing in from all sides. Sharp, crystalline prose that cuts to the bone."
+  },
+  {
+    "id": "little-women",
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780147514011-L.jpg",
+    "vibeTags": ["warm", "nostalgic", "sisterly", "hopeful", "domestic", "tender", "classic"],
+    "vibeVector": {
+      "melancholy": 0.4,
+      "intimacy": 0.85,
+      "intensity": 0.3,
+      "hope": 0.8,
+      "tension": 0.25,
+      "warmth": 0.95,
+      "nostalgia": 0.9,
+      "eeriness": 0.0,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Crackling fires and handwritten plays. Sisters growing up together, each finding her own way. The cozy warmth of home even when everything changes."
+  },
+  {
+    "id": "the-goldfinch",
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316055437-L.jpg",
+    "vibeTags": ["literary", "melancholic", "artistic", "sprawling", "obsessive", "tragic", "urban"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.5,
+      "intensity": 0.65,
+      "hope": 0.3,
+      "tension": 0.6,
+      "warmth": 0.35,
+      "nostalgia": 0.7,
+      "eeriness": 0.4,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Dust and grief and a small painting that contains everything. The way trauma follows you through years and cities. Beauty as both salvation and destruction."
+  },
+  {
+    "id": "circe",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316556347-L.jpg",
+    "vibeTags": ["mythic", "feminist", "atmospheric", "Mediterranean", "powerful", "solitary", "transformative"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.5,
+      "intensity": 0.7,
+      "hope": 0.6,
+      "tension": 0.5,
+      "warmth": 0.55,
+      "nostalgia": 0.45,
+      "eeriness": 0.4,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Herbs growing wild on a lonely island. Finding power in exile, strength in solitude. The slow, fierce work of becoming yourself against the will of gods."
+  },
+  {
+    "id": "a-little-life",
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780804172707-L.jpg",
+    "vibeTags": ["devastating", "intimate", "intense", "urban", "friendship", "painful", "literary"],
+    "vibeVector": {
+      "melancholy": 0.98,
+      "intimacy": 0.9,
+      "intensity": 0.95,
+      "hope": 0.15,
+      "tension": 0.8,
+      "warmth": 0.5,
+      "nostalgia": 0.3,
+      "eeriness": 0.4,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A friendship that spans decades and holds everything. The body's memory of pain that never fully heals. Love as fierce protection against an unforgiving world."
+  },
+  {
+    "id": "the-seven-husbands-of-evelyn-hugo",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781501161933-L.jpg",
+    "vibeTags": ["glamorous", "romantic", "nostalgic", "dramatic", "Hollywood", "passionate", "sapphic"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.75,
+      "intensity": 0.7,
+      "hope": 0.5,
+      "tension": 0.55,
+      "warmth": 0.6,
+      "nostalgia": 0.85,
+      "eeriness": 0.1,
+      "pace": 0.6
+    },
+    "vibeBlurb": "Golden Age Hollywood glamour hiding a forbidden love. The costumes we wear to survive, the truths we only tell at the end. Ambition and devotion in equal measure."
+  },
+  {
+    "id": "the-picture-of-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439570-L.jpg",
+    "vibeTags": ["decadent", "gothic", "aesthetic", "dark", "Victorian", "philosophical", "seductive"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.45,
+      "intensity": 0.75,
+      "hope": 0.2,
+      "tension": 0.7,
+      "warmth": 0.25,
+      "nostalgia": 0.5,
+      "eeriness": 0.8,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Velvet curtains and poisonous flowers. The seductive danger of eternal youth at any cost. Every beautiful surface hiding something rotting underneath."
+  },
+  {
+    "id": "beach-read",
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781984806734-L.jpg",
+    "vibeTags": ["romantic", "witty", "summery", "hopeful", "contemporary", "warm", "light"],
+    "vibeVector": {
+      "melancholy": 0.35,
+      "intimacy": 0.7,
+      "intensity": 0.4,
+      "hope": 0.85,
+      "tension": 0.35,
+      "warmth": 0.85,
+      "nostalgia": 0.4,
+      "eeriness": 0.0,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Sandy feet and sunsets on the porch. Two writers challenging each other while falling in love. The hope that comes after heartbreak, unexpected and real."
+  },
+  {
+    "id": "the-haunting-of-hill-house",
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780143039983-L.jpg",
+    "vibeTags": ["gothic", "psychological", "eerie", "claustrophobic", "atmospheric", "unsettling", "lonely"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.4,
+      "intensity": 0.7,
+      "hope": 0.1,
+      "tension": 0.95,
+      "warmth": 0.1,
+      "nostalgia": 0.35,
+      "eeriness": 0.98,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Walls that breathe and doors that open by themselves. The horror of being truly seen by something that shouldn't exist. A house that wants to keep you forever."
+  },
+  {
+    "id": "jane-eyre",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141441146-L.jpg",
+    "vibeTags": ["gothic", "romantic", "independent", "atmospheric", "passionate", "Victorian", "fierce"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.7,
+      "intensity": 0.75,
+      "hope": 0.55,
+      "tension": 0.7,
+      "warmth": 0.5,
+      "nostalgia": 0.55,
+      "eeriness": 0.6,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A small, plain governess with fire in her soul. Love earned through independence, not submission. Dark hallways and secrets that burn."
+  },
+  {
+    "id": "the-catcher-in-the-rye",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
+    "vibeTags": ["alienated", "youthful", "melancholic", "raw", "urban", "coming-of-age", "cynical"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.55,
+      "intensity": 0.55,
+      "hope": 0.25,
+      "tension": 0.5,
+      "warmth": 0.3,
+      "nostalgia": 0.65,
+      "eeriness": 0.2,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Wandering New York City feeling like a stranger everywhere. The ache of wanting to protect innocence you've already lost. Searching for something real in a world of pretenders."
+  },
+  {
+    "id": "beloved",
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781400033416-L.jpg",
+    "vibeTags": ["haunting", "powerful", "painful", "poetic", "historical", "maternal", "ghostly"],
+    "vibeVector": {
+      "melancholy": 0.95,
+      "intimacy": 0.75,
+      "intensity": 0.9,
+      "hope": 0.25,
+      "tension": 0.85,
+      "warmth": 0.45,
+      "nostalgia": 0.7,
+      "eeriness": 0.85,
+      "pace": 0.4
+    },
+    "vibeBlurb": "The past that refuses to stay buried. Mother love so fierce it becomes something else entirely. Memory as a haunting you can't escape."
+  },
+  {
+    "id": "the-kite-runner",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781594631931-L.jpg",
+    "vibeTags": ["heartbreaking", "redemptive", "nostalgic", "friendship", "guilt", "Afghanistan", "epic"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.7,
+      "intensity": 0.8,
+      "hope": 0.45,
+      "tension": 0.75,
+      "warmth": 0.5,
+      "nostalgia": 0.85,
+      "eeriness": 0.25,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Kites flying over Kabul before everything changed. The weight of childhood betrayal carried across decades. The long road to being good again."
+  },
+  {
+    "id": "east-of-eden",
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780142004234-L.jpg",
+    "vibeTags": ["epic", "biblical", "sprawling", "American", "generational", "philosophical", "rural"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.55,
+      "intensity": 0.7,
+      "hope": 0.5,
+      "tension": 0.65,
+      "warmth": 0.55,
+      "nostalgia": 0.7,
+      "eeriness": 0.3,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Salinas Valley stretching toward the mountains. The old story of good and evil retold through American soil. The power of choice echoing through generations."
+  },
+  {
+    "id": "anna-karenina",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780143035008-L.jpg",
+    "vibeTags": ["tragic", "passionate", "epic", "Russian", "romantic", "societal", "doomed"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.7,
+      "intensity": 0.8,
+      "hope": 0.25,
+      "tension": 0.75,
+      "warmth": 0.4,
+      "nostalgia": 0.55,
+      "eeriness": 0.35,
+      "pace": 0.45
+    },
+    "vibeBlurb": "All unhappy families, each in their own way. A passion that burns everything it touches. Train stations and snowstorms and the weight of society."
+  },
+  {
+    "id": "the-book-thief",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780375842207-L.jpg",
+    "vibeTags": ["WWII", "poetic", "heartbreaking", "hopeful", "death", "words", "friendship"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.7,
+      "intensity": 0.7,
+      "hope": 0.5,
+      "tension": 0.65,
+      "warmth": 0.55,
+      "nostalgia": 0.65,
+      "eeriness": 0.45,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Words stolen in the dark of Nazi Germany. Death as a narrator with a poet's soul. The small rebellions that keep us human."
+  },
+  {
+    "id": "crime-and-punishment",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780143058144-L.jpg",
+    "vibeTags": ["psychological", "intense", "Russian", "guilt", "philosophical", "dark", "redemptive"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.55,
+      "intensity": 0.9,
+      "hope": 0.35,
+      "tension": 0.9,
+      "warmth": 0.25,
+      "nostalgia": 0.3,
+      "eeriness": 0.6,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Feverish St. Petersburg streets and a mind turning against itself. The unbearable weight of guilt. Suffering as the path to redemption."
+  },
+  {
+    "id": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780060935467-L.jpg",
+    "vibeTags": ["coming-of-age", "Southern", "justice", "warm", "nostalgic", "innocent", "moral"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.65,
+      "intensity": 0.6,
+      "hope": 0.55,
+      "tension": 0.6,
+      "warmth": 0.75,
+      "nostalgia": 0.85,
+      "eeriness": 0.25,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Humid Alabama summers seen through a child's eyes. The innocence of small-town mysteries and the weight of witnessing injustice. Standing up when it costs everything."
+  },
+  {
+    "id": "the-handmaids-tale",
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385490818-L.jpg",
+    "vibeTags": ["dystopian", "feminist", "oppressive", "chilling", "political", "survival", "resistance"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.5,
+      "intensity": 0.85,
+      "hope": 0.25,
+      "tension": 0.9,
+      "warmth": 0.15,
+      "nostalgia": 0.55,
+      "eeriness": 0.8,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Red robes and downcast eyes in a world that was ours. The daily violence of control disguised as protection. Memory as the last rebellion."
+  },
+  {
+    "id": "brave-new-world",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg",
+    "vibeTags": ["dystopian", "satirical", "unsettling", "futuristic", "philosophical", "clinical", "controlled"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.2,
+      "intensity": 0.65,
+      "hope": 0.2,
+      "tension": 0.7,
+      "warmth": 0.1,
+      "nostalgia": 0.35,
+      "eeriness": 0.75,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Engineered happiness and conditioning centres. Pleasure without meaning, peace without freedom. The horror of a world where suffering has been abolished along with humanity."
+  },
+  {
+    "id": "atonement",
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385721790-L.jpg",
+    "vibeTags": ["regretful", "literary", "WWII", "romantic", "tragic", "guilt", "English"],
+    "vibeVector": {
+      "melancholy": 0.9,
+      "intimacy": 0.65,
+      "intensity": 0.7,
+      "hope": 0.25,
+      "tension": 0.65,
+      "warmth": 0.35,
+      "nostalgia": 0.8,
+      "eeriness": 0.3,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A hot summer day and a terrible misunderstanding. Lives derailed by a child's imagination. The stories we tell ourselves to live with what we've done."
+  },
+  {
+    "id": "the-count-of-monte-cristo",
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780140449266-L.jpg",
+    "vibeTags": ["revenge", "epic", "adventure", "dramatic", "justice", "patient", "transformation"],
+    "vibeVector": {
+      "melancholy": 0.5,
+      "intimacy": 0.45,
+      "intensity": 0.85,
+      "hope": 0.55,
+      "tension": 0.8,
+      "warmth": 0.35,
+      "nostalgia": 0.45,
+      "eeriness": 0.35,
+      "pace": 0.65
+    },
+    "vibeBlurb": "Patient vengeance served over decades. The prison darkness that forges something new. Justice delivered with devastating precision and theatrical flair."
+  },
+  {
+    "id": "never-let-me-go",
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781400078776-L.jpg",
+    "vibeTags": ["melancholic", "quiet", "unsettling", "English", "nostalgic", "dystopian", "tender"],
+    "vibeVector": {
+      "melancholy": 0.9,
+      "intimacy": 0.75,
+      "intensity": 0.5,
+      "hope": 0.15,
+      "tension": 0.55,
+      "warmth": 0.45,
+      "nostalgia": 0.85,
+      "eeriness": 0.7,
+      "pace": 0.3
+    },
+    "vibeBlurb": "Boarding school memories with something deeply wrong underneath. The quiet horror of accepting your fate. Love in the shadow of predetermined endings."
+  },
+  {
+    "id": "the-remains-of-the-day",
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780679731726-L.jpg",
+    "vibeTags": ["restrained", "English", "melancholic", "nostalgic", "quiet", "regretful", "dignified"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.45,
+      "intensity": 0.35,
+      "hope": 0.2,
+      "tension": 0.4,
+      "warmth": 0.35,
+      "nostalgia": 0.9,
+      "eeriness": 0.2,
+      "pace": 0.25
+    },
+    "vibeBlurb": "The perfect butler in a fading world. All the words never spoken, the feelings never acknowledged. Dignity as both armor and prison."
+  },
+  {
+    "id": "frankenstein",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439471-L.jpg",
+    "vibeTags": ["gothic", "tragic", "philosophical", "lonely", "scientific", "romantic", "monstrous"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.4,
+      "intensity": 0.75,
+      "hope": 0.15,
+      "tension": 0.75,
+      "warmth": 0.2,
+      "nostalgia": 0.4,
+      "eeriness": 0.85,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Lightning and forbidden knowledge. The creature who only wanted to be loved. Playing god and running from the consequences across Arctic ice."
+  },
+  {
+    "id": "dune",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+    "vibeTags": ["epic", "desert", "political", "mystical", "intense", "prophetic", "ecological"],
+    "vibeVector": {
+      "melancholy": 0.5,
+      "intimacy": 0.4,
+      "intensity": 0.85,
+      "hope": 0.5,
+      "tension": 0.8,
+      "warmth": 0.3,
+      "nostalgia": 0.35,
+      "eeriness": 0.55,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Spice and sandworms and desert messiahs. Power games spanning galaxies. The weight of prophecy you never asked for."
+  },
+  {
+    "id": "the-road",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780307387899-L.jpg",
+    "vibeTags": ["bleak", "apocalyptic", "tender", "survival", "paternal", "sparse", "grey"],
+    "vibeVector": {
+      "melancholy": 0.95,
+      "intimacy": 0.8,
+      "intensity": 0.8,
+      "hope": 0.25,
+      "tension": 0.85,
+      "warmth": 0.4,
+      "nostalgia": 0.45,
+      "eeriness": 0.75,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Ash falling like snow on a dead world. A father and son carrying the fire. Love as the last light in absolute darkness."
+  },
+  {
+    "id": "one-hundred-years-of-solitude",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
+    "vibeTags": ["magical-realism", "epic", "generational", "Latin-American", "cyclical", "lush", "fatalistic"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.55,
+      "intensity": 0.7,
+      "hope": 0.35,
+      "tension": 0.55,
+      "warmth": 0.55,
+      "nostalgia": 0.8,
+      "eeriness": 0.6,
+      "pace": 0.5
+    },
+    "vibeBlurb": "A town where it rains for years and the dead refuse to leave. Generations circling the same fates. Magic woven so deeply into reality you forget it's strange."
+  },
+  {
+    "id": "the-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780374528379-L.jpg",
+    "vibeTags": ["philosophical", "Russian", "intense", "spiritual", "dark", "passionate", "profound"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.6,
+      "intensity": 0.9,
+      "hope": 0.45,
+      "tension": 0.8,
+      "warmth": 0.4,
+      "nostalgia": 0.35,
+      "eeriness": 0.4,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Faith and doubt wrestling in the Russian soul. Three brothers, three ways of being human. Questions too big for answers echoing through cathedral darkness."
+  },
+  {
+    "id": "gone-girl",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780307588371-L.jpg",
+    "vibeTags": ["thriller", "dark", "twisted", "marriage", "unreliable", "suspenseful", "sharp"],
+    "vibeVector": {
+      "melancholy": 0.5,
+      "intimacy": 0.55,
+      "intensity": 0.85,
+      "hope": 0.15,
+      "tension": 0.95,
+      "warmth": 0.1,
+      "nostalgia": 0.3,
+      "eeriness": 0.7,
+      "pace": 0.75
+    },
+    "vibeBlurb": "Marriage as a hall of mirrors. The mask of the perfect wife and what's rotting underneath. Trust as the first casualty."
+  },
+  {
+    "id": "the-secret-garden",
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780064401883-L.jpg",
+    "vibeTags": ["magical", "healing", "English", "garden", "childhood", "hopeful", "transformative"],
+    "vibeVector": {
+      "melancholy": 0.4,
+      "intimacy": 0.6,
+      "intensity": 0.35,
+      "hope": 0.85,
+      "tension": 0.25,
+      "warmth": 0.8,
+      "nostalgia": 0.75,
+      "eeriness": 0.2,
+      "pace": 0.35
+    },
+    "vibeBlurb": "A hidden door in a Yorkshire wall. Children healing alongside roses and robin songs. The magic of growing things making everything possible."
+  },
+  {
+    "id": "the-name-of-the-wind",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780756404741-L.jpg",
+    "vibeTags": ["fantasy", "musical", "mythic", "storytelling", "academic", "tragic", "lyrical"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.6,
+      "intensity": 0.7,
+      "hope": 0.45,
+      "tension": 0.6,
+      "warmth": 0.5,
+      "nostalgia": 0.75,
+      "eeriness": 0.4,
+      "pace": 0.5
+    },
+    "vibeBlurb": "A legend telling his own story in an empty inn. Music and magic intertwined like lovers. The silence between the songs that matters most."
+  },
+  {
+    "id": "the-house-of-mirth",
+    "title": "The House of Mirth",
+    "author": "Edith Wharton",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780486420493-L.jpg",
+    "vibeTags": ["tragic", "elegant", "societal", "Gilded-Age", "New-York", "beautiful", "doomed"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.5,
+      "intensity": 0.6,
+      "hope": 0.2,
+      "tension": 0.65,
+      "warmth": 0.3,
+      "nostalgia": 0.7,
+      "eeriness": 0.3,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A beautiful woman navigating gilded cages. Society's rules written in invisible ink. The slow fall from grace in silk and diamonds."
+  },
+  {
+    "id": "the-stranger",
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780679720201-L.jpg",
+    "vibeTags": ["existential", "detached", "Algerian", "philosophical", "sun", "absurd", "sparse"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.2,
+      "intensity": 0.6,
+      "hope": 0.15,
+      "tension": 0.6,
+      "warmth": 0.15,
+      "nostalgia": 0.25,
+      "eeriness": 0.55,
+      "pace": 0.45
+    },
+    "vibeBlurb": "The sun so bright it overwhelms everything. Feeling nothing when you should feel everything. The absurdity of existence laid bare on hot sand."
+  },
+  {
+    "id": "call-me-by-your-name",
+    "title": "Call Me by Your Name",
+    "author": "André Aciman",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780312426781-L.jpg",
+    "vibeTags": ["romantic", "summer", "Italian", "yearning", "sensual", "nostalgic", "bittersweet"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.95,
+      "intensity": 0.7,
+      "hope": 0.4,
+      "tension": 0.55,
+      "warmth": 0.75,
+      "nostalgia": 0.9,
+      "eeriness": 0.1,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Italian summer heat and stolen glances. The agony of wanting someone so close you can taste it. Orchards and bicycles and a name that means everything."
+  },
+  {
+    "id": "persuasion",
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439686-L.jpg",
+    "vibeTags": ["romantic", "autumnal", "second-chance", "tender", "regretful", "mature", "coastal"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.7,
+      "intensity": 0.5,
+      "hope": 0.7,
+      "tension": 0.45,
+      "warmth": 0.65,
+      "nostalgia": 0.8,
+      "eeriness": 0.05,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Eight years of regret and quiet longing. Autumn by the sea and second chances. A love letter disguised as a novel about patience."
+  },
+  {
+    "id": "the-color-purple",
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780156028356-L.jpg",
+    "vibeTags": ["powerful", "survival", "sisterhood", "Southern", "epistolary", "transformative", "spiritual"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.85,
+      "intensity": 0.8,
+      "hope": 0.65,
+      "tension": 0.65,
+      "warmth": 0.7,
+      "nostalgia": 0.55,
+      "eeriness": 0.2,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Letters to God from a woman finding her voice. Purple fields and sisterhood that saves. Surviving what should have destroyed you."
+  },
+  {
+    "id": "the-age-of-innocence",
+    "title": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780486298030-L.jpg",
+    "vibeTags": ["elegant", "restrained", "tragic", "New-York", "societal", "romantic", "Gilded-Age"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.6,
+      "intensity": 0.5,
+      "hope": 0.25,
+      "tension": 0.55,
+      "warmth": 0.35,
+      "nostalgia": 0.85,
+      "eeriness": 0.15,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Opera boxes and unspoken longings. The prison of propriety and the love that exists in glances. A whole life lived in what-ifs."
+  },
+  {
+    "id": "life-of-pi",
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780156027328-L.jpg",
+    "vibeTags": ["survival", "spiritual", "magical", "oceanic", "philosophical", "beautiful", "questioning"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.5,
+      "intensity": 0.7,
+      "hope": 0.6,
+      "tension": 0.65,
+      "warmth": 0.45,
+      "nostalgia": 0.45,
+      "eeriness": 0.5,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A boy and a tiger on endless blue ocean. Stories we tell ourselves to survive the unsurvivable. Faith floating on impossible hope."
+  },
+  {
+    "id": "the-virgin-suicides",
+    "title": "The Virgin Suicides",
+    "author": "Jeffrey Eugenides",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780312428815-L.jpg",
+    "vibeTags": ["melancholic", "suburban", "dreamy", "mysterious", "70s", "obsessive", "haunting"],
+    "vibeVector": {
+      "melancholy": 0.95,
+      "intimacy": 0.55,
+      "intensity": 0.65,
+      "hope": 0.1,
+      "tension": 0.6,
+      "warmth": 0.3,
+      "nostalgia": 0.85,
+      "eeriness": 0.75,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Five blonde sisters glimpsed through suburban windows. The mystery you'll never solve, the girls you'll never understand. Adolescence as fever dream."
+  },
+  {
+    "id": "my-year-of-rest-and-relaxation",
+    "title": "My Year of Rest and Relaxation",
+    "author": "Ottessa Moshfegh",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780525522133-L.jpg",
+    "vibeTags": ["dark", "satirical", "New-York", "numb", "millennial", "isolation", "2000s"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.35,
+      "intensity": 0.45,
+      "hope": 0.2,
+      "tension": 0.4,
+      "warmth": 0.15,
+      "nostalgia": 0.5,
+      "eeriness": 0.55,
+      "pace": 0.25
+    },
+    "vibeBlurb": "Sleeping through grief in a Manhattan apartment. The year before the towers fell. Numbness as a survival strategy."
+  },
+  {
+    "id": "great-expectations",
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439563-L.jpg",
+    "vibeTags": ["Victorian", "coming-of-age", "atmospheric", "gothic", "London", "class", "transformative"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.55,
+      "intensity": 0.6,
+      "hope": 0.55,
+      "tension": 0.6,
+      "warmth": 0.5,
+      "nostalgia": 0.7,
+      "eeriness": 0.55,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Marshes and a rotting wedding cake. A boy learning what makes a gentleman. The chains of gratitude and the freedom of truth."
+  },
+  {
+    "id": "the-waves",
+    "title": "The Waves",
+    "author": "Virginia Woolf",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780156949606-L.jpg",
+    "vibeTags": ["experimental", "poetic", "stream-of-consciousness", "friendship", "mortality", "rhythmic", "profound"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.7,
+      "intensity": 0.6,
+      "hope": 0.35,
+      "tension": 0.4,
+      "warmth": 0.45,
+      "nostalgia": 0.75,
+      "eeriness": 0.45,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Six voices rising and falling like tides. The self dissolving and reforming across a lifetime. Language as pure feeling."
+  },
+  {
+    "id": "interview-with-the-vampire",
+    "title": "Interview with the Vampire",
+    "author": "Anne Rice",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780345337665-L.jpg",
+    "vibeTags": ["gothic", "sensual", "melancholic", "New-Orleans", "immortal", "dark", "romantic"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.65,
+      "intensity": 0.75,
+      "hope": 0.2,
+      "tension": 0.65,
+      "warmth": 0.3,
+      "nostalgia": 0.7,
+      "eeriness": 0.8,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Eternal life as eternal grief. Gas-lit New Orleans and the curse of beauty. The weight of centuries pressing down like velvet."
+  },
+  {
+    "id": "middlesex",
+    "title": "Middlesex",
+    "author": "Jeffrey Eugenides",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780312422158-L.jpg",
+    "vibeTags": ["epic", "identity", "generational", "Greek-American", "Detroit", "transformative", "sprawling"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.65,
+      "intensity": 0.65,
+      "hope": 0.55,
+      "tension": 0.55,
+      "warmth": 0.55,
+      "nostalgia": 0.75,
+      "eeriness": 0.35,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Three generations of secrets written in DNA. A city burning and identities transforming. The self as an unfolding mystery."
+  },
+  {
+    "id": "the-master-and-margarita",
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141180144-L.jpg",
+    "vibeTags": ["satirical", "magical", "Russian", "subversive", "surreal", "dark", "romantic"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.55,
+      "intensity": 0.75,
+      "hope": 0.45,
+      "tension": 0.65,
+      "warmth": 0.4,
+      "nostalgia": 0.5,
+      "eeriness": 0.7,
+      "pace": 0.6
+    },
+    "vibeBlurb": "The devil himself strolling through Soviet Moscow. A talking cat and a witch's ball. Art surviving tyranny through magic and madness."
+  },
+  {
+    "id": "on-the-road",
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780140283297-L.jpg",
+    "vibeTags": ["beat", "wandering", "American", "jazz", "freedom", "youthful", "restless"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.6,
+      "intensity": 0.7,
+      "hope": 0.55,
+      "tension": 0.4,
+      "warmth": 0.55,
+      "nostalgia": 0.75,
+      "eeriness": 0.15,
+      "pace": 0.8
+    },
+    "vibeBlurb": "Highways unspooling across America like jazz riffs. The mad ones burning, burning, burning. Freedom as motion, meaning as speed."
+  },
+  {
+    "id": "we-need-to-talk-about-kevin",
+    "title": "We Need to Talk About Kevin",
+    "author": "Lionel Shriver",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780062119049-L.jpg",
+    "vibeTags": ["disturbing", "maternal", "epistolary", "guilt", "suburban", "psychological", "chilling"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.65,
+      "intensity": 0.85,
+      "hope": 0.1,
+      "tension": 0.9,
+      "warmth": 0.15,
+      "nostalgia": 0.45,
+      "eeriness": 0.8,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Letters to an absent husband about an impossible son. The slow horror of watching someone you made become something terrible. Motherhood as crime scene."
+  },
+  {
+    "id": "the-grapes-of-wrath",
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780143039433-L.jpg",
+    "vibeTags": ["American", "dustbowl", "epic", "working-class", "journey", "angry", "hopeful"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.6,
+      "intensity": 0.75,
+      "hope": 0.45,
+      "tension": 0.7,
+      "warmth": 0.55,
+      "nostalgia": 0.65,
+      "eeriness": 0.25,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Dust and hunger and the long road West. Families holding together against everything designed to break them. Anger as fuel for survival."
+  },
+  {
+    "id": "dracula",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780141439846-L.jpg",
+    "vibeTags": ["gothic", "Victorian", "horror", "seductive", "epistolary", "atmospheric", "dark"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.45,
+      "intensity": 0.75,
+      "hope": 0.35,
+      "tension": 0.85,
+      "warmth": 0.2,
+      "nostalgia": 0.55,
+      "eeriness": 0.9,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Ancient evil in a crumbling castle. Letters and journal entries mapping encroaching darkness. The seduction of surrender to something beyond death."
+  },
+  {
+    "id": "the-poisonwood-bible",
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780060786502-L.jpg",
+    "vibeTags": ["epic", "Congo", "sisterhood", "colonial", "political", "sprawling", "tragic"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.7,
+      "intensity": 0.7,
+      "hope": 0.4,
+      "tension": 0.65,
+      "warmth": 0.45,
+      "nostalgia": 0.6,
+      "eeriness": 0.45,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Five voices navigating a world their father sought to conquer. The jungle that swallows missionaries whole. Sisterhood surviving what zealotry destroyed."
+  },
+  {
+    "id": "the-unbearable-lightness-of-being",
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780060932138-L.jpg",
+    "vibeTags": ["philosophical", "romantic", "Prague", "political", "sensual", "existential", "weighty"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.75,
+      "intensity": 0.65,
+      "hope": 0.35,
+      "tension": 0.55,
+      "warmth": 0.45,
+      "nostalgia": 0.6,
+      "eeriness": 0.3,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Love and betrayal under Soviet tanks. The weight of choices that can never be remade. Prague spring frozen into permanent winter."
+  },
+  {
+    "id": "white-oleander",
+    "title": "White Oleander",
+    "author": "Janet Fitch",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316284950-L.jpg",
+    "vibeTags": ["maternal", "survival", "California", "poetic", "foster-care", "transformative", "fierce"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.7,
+      "intensity": 0.75,
+      "hope": 0.45,
+      "tension": 0.65,
+      "warmth": 0.4,
+      "nostalgia": 0.55,
+      "eeriness": 0.45,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Poisonous beauty passed from mother to daughter. Foster homes like way stations through difficult terrain. Survival as the art of becoming someone new."
+  },
+  {
+    "id": "the-shadow-of-the-wind",
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780143034902-L.jpg",
+    "vibeTags": ["gothic", "Barcelona", "mysterious", "literary", "atmospheric", "romantic", "labyrinthine"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.6,
+      "intensity": 0.7,
+      "hope": 0.45,
+      "tension": 0.7,
+      "warmth": 0.5,
+      "nostalgia": 0.8,
+      "eeriness": 0.65,
+      "pace": 0.5
+    },
+    "vibeBlurb": "A cemetery of forgotten books in post-war Barcelona. A novel that leads to obsession and danger. Stories as ghosts that refuse to die."
+  },
+  {
+    "id": "slaughterhouse-five",
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385333849-L.jpg",
+    "vibeTags": ["anti-war", "surreal", "WWII", "time", "darkly-comic", "philosophical", "fragmented"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.5,
+      "intensity": 0.65,
+      "hope": 0.3,
+      "tension": 0.55,
+      "warmth": 0.35,
+      "nostalgia": 0.6,
+      "eeriness": 0.6,
+      "pace": 0.55
+    },
+    "vibeBlurb": "So it goes. Unstuck in time between devastation and alien planets. The absurdity of war told by someone who can't tell it any other way."
+  },
+  {
+    "id": "pachinko",
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781455563920-L.jpg",
+    "vibeTags": ["epic", "generational", "Korean", "immigrant", "historical", "patient", "resilient"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.7,
+      "intensity": 0.6,
+      "hope": 0.55,
+      "tension": 0.55,
+      "warmth": 0.65,
+      "nostalgia": 0.75,
+      "eeriness": 0.2,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Four generations of a Korean family in Japan. History as the game you can't win but keep playing. Survival passed down like precious heirlooms."
+  },
+  {
+    "id": "less",
+    "title": "Less",
+    "author": "Andrew Sean Greer",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316316132-L.jpg",
+    "vibeTags": ["witty", "travel", "middle-age", "romantic", "literary", "charming", "bittersweet"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.6,
+      "intensity": 0.4,
+      "hope": 0.65,
+      "tension": 0.35,
+      "warmth": 0.7,
+      "nostalgia": 0.55,
+      "eeriness": 0.1,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Running away from a wedding around the entire world. Turning fifty and discovering you haven't ruined everything. Comedy as survival strategy."
+  },
+  {
+    "id": "shuggie-bain",
+    "title": "Shuggie Bain",
+    "author": "Douglas Stuart",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780802148049-L.jpg",
+    "vibeTags": ["Glasgow", "maternal", "poverty", "addiction", "tender", "devastating", "working-class"],
+    "vibeVector": {
+      "melancholy": 0.95,
+      "intimacy": 0.85,
+      "intensity": 0.8,
+      "hope": 0.25,
+      "tension": 0.7,
+      "warmth": 0.5,
+      "nostalgia": 0.6,
+      "eeriness": 0.35,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A boy who loves his mother more than she can love herself. Council estates and stubborn devotion. The tenderness that survives everything."
+  },
+  {
+    "id": "their-eyes-were-watching-god",
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780061120060-L.jpg",
+    "vibeTags": ["Southern", "romantic", "powerful", "poetic", "self-discovery", "Black", "hopeful"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.75,
+      "intensity": 0.7,
+      "hope": 0.65,
+      "tension": 0.55,
+      "warmth": 0.7,
+      "nostalgia": 0.6,
+      "eeriness": 0.25,
+      "pace": 0.5
+    },
+    "vibeBlurb": "A woman finding her voice through three marriages and a hurricane. Pear trees blooming and horizons calling. Language as beautiful as what it describes."
+  },
+  {
+    "id": "the-god-of-small-things",
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780812979657-L.jpg",
+    "vibeTags": ["poetic", "India", "tragic", "family", "forbidden", "lush", "political"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.75,
+      "intensity": 0.75,
+      "hope": 0.25,
+      "tension": 0.7,
+      "warmth": 0.5,
+      "nostalgia": 0.7,
+      "eeriness": 0.45,
+      "pace": 0.4
+    },
+    "vibeBlurb": "Twins circling a terrible secret in Kerala. Love laws broken and paid for dearly. Language dripping like monsoon rains."
+  },
+  {
+    "id": "ninth-house",
+    "title": "Ninth House",
+    "author": "Leigh Bardugo",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781250313072-L.jpg",
+    "vibeTags": ["dark-academia", "magical", "Yale", "gritty", "supernatural", "class", "survival"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.5,
+      "intensity": 0.8,
+      "hope": 0.35,
+      "tension": 0.85,
+      "warmth": 0.25,
+      "nostalgia": 0.35,
+      "eeriness": 0.8,
+      "pace": 0.6
+    },
+    "vibeBlurb": "Secret societies and real magic at Yale. Ghosts and privilege and a survivor who sees through both. Dark academia with actual darkness."
+  },
+  {
+    "id": "flowers-for-algernon",
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780156030083-L.jpg",
+    "vibeTags": ["heartbreaking", "scientific", "transformation", "lonely", "tender", "tragic", "hopeful"],
+    "vibeVector": {
+      "melancholy": 0.9,
+      "intimacy": 0.65,
+      "intensity": 0.7,
+      "hope": 0.4,
+      "tension": 0.55,
+      "warmth": 0.55,
+      "nostalgia": 0.55,
+      "eeriness": 0.35,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A mind blooming and then fading like flowers. The cruelty of knowing what you're losing. A mouse named Algernon running the maze first."
+  },
+  {
+    "id": "if-we-were-villains",
+    "title": "If We Were Villains",
+    "author": "M.L. Rio",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781250095282-L.jpg",
+    "vibeTags": ["dark-academia", "Shakespeare", "theater", "murder", "obsessive", "atmospheric", "intense"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.7,
+      "intensity": 0.85,
+      "hope": 0.2,
+      "tension": 0.9,
+      "warmth": 0.35,
+      "nostalgia": 0.6,
+      "eeriness": 0.65,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Seven Shakespeare students and one of them dead. Life and theater blurring until no one knows which is which. All the world's a stage, especially tragedy."
+  },
+  {
+    "id": "the-house-of-the-spirits",
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780553383805-L.jpg",
+    "vibeTags": ["magical-realism", "generational", "Chilean", "political", "feminine", "epic", "spiritual"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.7,
+      "intensity": 0.7,
+      "hope": 0.5,
+      "tension": 0.6,
+      "warmth": 0.6,
+      "nostalgia": 0.75,
+      "eeriness": 0.55,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Three generations of women who can move tables with their minds. A country bleeding through revolutions. Spirits and history woven inseparably together."
+  },
+  {
+    "id": "kafka-on-the-shore",
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781400079278-L.jpg",
+    "vibeTags": ["surreal", "dreamy", "Japanese", "mysterious", "coming-of-age", "cats", "parallel"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.55,
+      "intensity": 0.55,
+      "hope": 0.45,
+      "tension": 0.5,
+      "warmth": 0.45,
+      "nostalgia": 0.6,
+      "eeriness": 0.7,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A boy running away and an old man who talks to cats. Parallel stories that touch like dreams. The entrance stone to somewhere else."
+  },
+  {
+    "id": "a-court-of-thorns-and-roses",
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781619634459-L.jpg",
+    "vibeTags": ["fantasy", "romantic", "fierce", "magical", "fairytale", "dark", "passionate"],
+    "vibeVector": {
+      "melancholy": 0.45,
+      "intimacy": 0.75,
+      "intensity": 0.8,
+      "hope": 0.6,
+      "tension": 0.7,
+      "warmth": 0.55,
+      "nostalgia": 0.35,
+      "eeriness": 0.45,
+      "pace": 0.65
+    },
+    "vibeBlurb": "Beauty and the Beast with faeries and thorns. A huntress becoming something powerful and loved. Magic that costs everything and gives it back."
+  },
+  {
+    "id": "the-buried-giant",
+    "title": "The Buried Giant",
+    "author": "Kazuo Ishiguro",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780307455796-L.jpg",
+    "vibeTags": ["mythic", "melancholic", "Arthurian", "marriage", "memory", "foggy", "allegorical"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.7,
+      "intensity": 0.45,
+      "hope": 0.35,
+      "tension": 0.45,
+      "warmth": 0.5,
+      "nostalgia": 0.8,
+      "eeriness": 0.6,
+      "pace": 0.3
+    },
+    "vibeBlurb": "An elderly couple crossing a land that forgets. Dragons and memory and what marriage means after decades. The mist that protects us from ourselves."
+  },
+  {
+    "id": "the-alchemist",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
+    "vibeTags": ["fable", "desert", "journey", "spiritual", "simple", "hopeful", "destiny"],
+    "vibeVector": {
+      "melancholy": 0.35,
+      "intimacy": 0.45,
+      "intensity": 0.5,
+      "hope": 0.85,
+      "tension": 0.35,
+      "warmth": 0.65,
+      "nostalgia": 0.45,
+      "eeriness": 0.25,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A shepherd following omens across the desert. The universe conspiring to help you find your treasure. Simplicity as profound wisdom."
+  },
+  {
+    "id": "the-silence-of-the-lambs",
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780312924584-L.jpg",
+    "vibeTags": ["thriller", "psychological", "dark", "FBI", "intelligent", "chilling", "cat-and-mouse"],
+    "vibeVector": {
+      "melancholy": 0.5,
+      "intimacy": 0.5,
+      "intensity": 0.9,
+      "hope": 0.3,
+      "tension": 0.95,
+      "warmth": 0.1,
+      "nostalgia": 0.2,
+      "eeriness": 0.9,
+      "pace": 0.7
+    },
+    "vibeBlurb": "A young agent and a caged monster. Quid pro quo in the basement of a hospital. The screaming that never quite stops."
+  },
+  {
+    "id": "the-lovely-bones",
+    "title": "The Lovely Bones",
+    "author": "Alice Sebold",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316044936-L.jpg",
+    "vibeTags": ["ghostly", "suburban", "grief", "ethereal", "family", "watching", "hopeful"],
+    "vibeVector": {
+      "melancholy": 0.85,
+      "intimacy": 0.7,
+      "intensity": 0.6,
+      "hope": 0.45,
+      "tension": 0.55,
+      "warmth": 0.5,
+      "nostalgia": 0.7,
+      "eeriness": 0.75,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A girl watching her family from heaven. The afterlife as a place of longing. Grief observed from impossibly far away."
+  },
+  {
+    "id": "the-time-travelers-wife",
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781476764832-L.jpg",
+    "vibeTags": ["romantic", "time", "tragic", "destined", "longing", "beautiful", "inevitable"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.9,
+      "intensity": 0.65,
+      "hope": 0.5,
+      "tension": 0.55,
+      "warmth": 0.7,
+      "nostalgia": 0.8,
+      "eeriness": 0.45,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Love scattered across time like broken glass. Waiting for someone who keeps appearing and disappearing. The future as memory, memory as future."
+  },
+  {
+    "id": "where-the-crawdads-sing",
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780735219090-L.jpg",
+    "vibeTags": ["marsh", "lonely", "mystery", "nature", "Southern", "survival", "poetic"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.55,
+      "intensity": 0.6,
+      "hope": 0.45,
+      "tension": 0.65,
+      "warmth": 0.5,
+      "nostalgia": 0.65,
+      "eeriness": 0.55,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A girl who raised herself in the Carolina marsh. Nature as mother, teacher, and hiding place. The marsh girl they never understood."
+  },
+  {
+    "id": "the-night-watch",
+    "title": "The Night Watch",
+    "author": "Sarah Waters",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781594481871-L.jpg",
+    "vibeTags": ["WWII", "London", "sapphic", "melancholic", "atmospheric", "secrets", "backwards"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.75,
+      "intensity": 0.6,
+      "hope": 0.35,
+      "tension": 0.55,
+      "warmth": 0.45,
+      "nostalgia": 0.8,
+      "eeriness": 0.4,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Wartime London told backwards through time. Love and secrets in the blackout. The way endings become beginnings when you reverse the reel."
+  },
+  {
+    "id": "the-vanishing-half",
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780525536291-L.jpg",
+    "vibeTags": ["identity", "twins", "generational", "Southern", "passing", "race", "transformation"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.75,
+      "intensity": 0.6,
+      "hope": 0.5,
+      "tension": 0.55,
+      "warmth": 0.55,
+      "nostalgia": 0.7,
+      "eeriness": 0.3,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Twin sisters who chose different paths through life. The self you become when you leave yourself behind. Generations of secrets and becoming."
+  },
+  {
+    "id": "educated",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg",
+    "vibeTags": ["memoir", "survival", "transformation", "family", "education", "resilient", "mountain"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.7,
+      "intensity": 0.75,
+      "hope": 0.6,
+      "tension": 0.7,
+      "warmth": 0.4,
+      "nostalgia": 0.5,
+      "eeriness": 0.35,
+      "pace": 0.5
+    },
+    "vibeBlurb": "A mountain childhood without schools or doctors. The terrifying freedom of learning to think for yourself. Education as both escape and exile."
+  },
+  {
+    "id": "the-midnight-library",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg",
+    "vibeTags": ["philosophical", "hopeful", "parallel-lives", "regret", "comforting", "library", "second-chances"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.55,
+      "intensity": 0.5,
+      "hope": 0.8,
+      "tension": 0.4,
+      "warmth": 0.7,
+      "nostalgia": 0.55,
+      "eeriness": 0.4,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A library between life and death full of lives you could have lived. Every regret a book you can step into. The hope hidden in infinite possibilities."
+  },
+  {
+    "id": "mexican-gothic",
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780525620785-L.jpg",
+    "vibeTags": ["gothic", "Mexican", "1950s", "horror", "feminist", "atmospheric", "creeping"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.45,
+      "intensity": 0.75,
+      "hope": 0.35,
+      "tension": 0.9,
+      "warmth": 0.2,
+      "nostalgia": 0.5,
+      "eeriness": 0.9,
+      "pace": 0.5
+    },
+    "vibeBlurb": "A glamorous socialite trapped in a rotting mansion. Mushrooms growing in the walls and in your dreams. Mexican high society meets cosmic horror."
+  },
+  {
+    "id": "piranesi",
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781635575637-L.jpg",
+    "vibeTags": ["mysterious", "labyrinthine", "magical", "lonely", "statues", "wonder", "puzzle"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.4,
+      "intensity": 0.5,
+      "hope": 0.55,
+      "tension": 0.5,
+      "warmth": 0.5,
+      "nostalgia": 0.45,
+      "eeriness": 0.65,
+      "pace": 0.35
+    },
+    "vibeBlurb": "Endless halls filled with statues and tides. A man alone in an impossible house, keeping careful records. Wonder as a form of survival."
+  },
+  {
+    "id": "station-eleven",
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385353304-L.jpg",
+    "vibeTags": ["post-apocalyptic", "beautiful", "hopeful", "artistic", "interconnected", "theatrical", "survival"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.6,
+      "intensity": 0.55,
+      "hope": 0.6,
+      "tension": 0.5,
+      "warmth": 0.55,
+      "nostalgia": 0.75,
+      "eeriness": 0.45,
+      "pace": 0.45
+    },
+    "vibeBlurb": "A traveling Shakespeare company in the post-pandemic world. Survival is insufficient. The art that saves us when everything else is gone."
+  },
+  {
+    "id": "the-blind-assassin",
+    "title": "The Blind Assassin",
+    "author": "Margaret Atwood",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385720953-L.jpg",
+    "vibeTags": ["literary", "nested", "mysterious", "Canadian", "generational", "tragic", "secrets"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.65,
+      "intensity": 0.6,
+      "hope": 0.25,
+      "tension": 0.6,
+      "warmth": 0.35,
+      "nostalgia": 0.8,
+      "eeriness": 0.45,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A novel within a novel within a memoir. Sisters and secrets across a century. The stories we tell to hide the truth and reveal it."
+  },
+  {
+    "id": "the-secret-life-of-bees",
+    "title": "The Secret Life of Bees",
+    "author": "Sue Monk Kidd",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780142001745-L.jpg",
+    "vibeTags": ["Southern", "coming-of-age", "maternal", "warm", "bees", "1960s", "healing"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.75,
+      "intensity": 0.55,
+      "hope": 0.7,
+      "tension": 0.45,
+      "warmth": 0.8,
+      "nostalgia": 0.7,
+      "eeriness": 0.15,
+      "pace": 0.45
+    },
+    "vibeBlurb": "Honey and the mothers we find when we need them. A girl searching for the truth about her past. The hum of bees as a kind of prayer."
+  },
+  {
+    "id": "the-prince",
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781250217318-L.jpg",
+    "vibeTags": ["cozy", "found-family", "magical", "hopeful", "queer", "heartwarming", "whimsical"],
+    "vibeVector": {
+      "melancholy": 0.35,
+      "intimacy": 0.75,
+      "intensity": 0.4,
+      "hope": 0.9,
+      "tension": 0.3,
+      "warmth": 0.95,
+      "nostalgia": 0.45,
+      "eeriness": 0.2,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A bureaucrat finding love and family in the strangest places. Magical children who deserve to be protected. The courage to choose a different life."
+  },
+  {
+    "id": "the-picture-perfect",
+    "title": "The Starless Sea",
+    "author": "Erin Morgenstern",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385541213-L.jpg",
+    "vibeTags": ["magical", "labyrinthine", "literary", "atmospheric", "romantic", "nested", "dreamy"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.6,
+      "intensity": 0.55,
+      "hope": 0.55,
+      "tension": 0.5,
+      "warmth": 0.5,
+      "nostalgia": 0.7,
+      "eeriness": 0.55,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A secret library beneath the world where stories come alive. Doors that open to everywhere and nowhere. Love letters to the act of reading itself."
+  },
+  {
+    "id": "a-thousand-splendid-suns",
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781594489501-L.jpg",
+    "vibeTags": ["Afghanistan", "sisterhood", "survival", "heartbreaking", "political", "maternal", "resilient"],
+    "vibeVector": {
+      "melancholy": 0.9,
+      "intimacy": 0.8,
+      "intensity": 0.85,
+      "hope": 0.4,
+      "tension": 0.8,
+      "warmth": 0.55,
+      "nostalgia": 0.6,
+      "eeriness": 0.3,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Two women bound by circumstance and transformed by love. Kabul through decades of war. A thousand splendid suns hidden behind each face."
+  },
+  {
+    "id": "cloud-atlas",
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780375507250-L.jpg",
+    "vibeTags": ["interconnected", "epic", "experimental", "time-spanning", "literary", "ambitious", "nested"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.55,
+      "intensity": 0.7,
+      "hope": 0.5,
+      "tension": 0.6,
+      "warmth": 0.45,
+      "nostalgia": 0.6,
+      "eeriness": 0.5,
+      "pace": 0.55
+    },
+    "vibeBlurb": "Six stories nested like Russian dolls across centuries. Souls echoing through time. The connections we can't see but always feel."
+  },
+  {
+    "id": "the-shadow-rising",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+    "vibeTags": ["adventure", "cozy", "fantasy", "journey", "dragons", "classic", "homey"],
+    "vibeVector": {
+      "melancholy": 0.3,
+      "intimacy": 0.55,
+      "intensity": 0.55,
+      "hope": 0.75,
+      "tension": 0.55,
+      "warmth": 0.7,
+      "nostalgia": 0.8,
+      "eeriness": 0.35,
+      "pace": 0.55
+    },
+    "vibeBlurb": "A hobbit who never expected an adventure. Riddles in the dark and a dragon's hoard. The small brave things that change everything."
+  },
+  {
+    "id": "the-fellowship",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780618640157-L.jpg",
+    "vibeTags": ["epic", "fantasy", "friendship", "adventure", "mythic", "quest", "sacrifice"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.65,
+      "intensity": 0.8,
+      "hope": 0.6,
+      "tension": 0.75,
+      "warmth": 0.6,
+      "nostalgia": 0.75,
+      "eeriness": 0.5,
+      "pace": 0.55
+    },
+    "vibeBlurb": "The smallest person can change the course of the future. Fellowship forged in darkness. The bittersweet victory that comes with loss."
+  },
+  {
+    "id": "the-testaments",
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780385543781-L.jpg",
+    "vibeTags": ["dystopian", "feminist", "resistance", "sequel", "political", "testimony", "survival"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.6,
+      "intensity": 0.75,
+      "hope": 0.55,
+      "tension": 0.8,
+      "warmth": 0.35,
+      "nostalgia": 0.4,
+      "eeriness": 0.6,
+      "pace": 0.55
+    },
+    "vibeBlurb": "The testimony of those who survived Gilead. Resistance from within and without. The patient work of bringing empires down."
+  },
+  {
+    "id": "the-night-manager",
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780062073488-L.jpg",
+    "vibeTags": ["mystery", "isolated", "suspenseful", "classic", "atmospheric", "puzzling", "dark"],
+    "vibeVector": {
+      "melancholy": 0.55,
+      "intimacy": 0.4,
+      "intensity": 0.8,
+      "hope": 0.2,
+      "tension": 0.95,
+      "warmth": 0.15,
+      "nostalgia": 0.5,
+      "eeriness": 0.8,
+      "pace": 0.7
+    },
+    "vibeBlurb": "Ten strangers on an island, dying one by one. Justice served in the most twisted way. The nursery rhyme that becomes a death sentence."
+  },
+  {
+    "id": "the-shadow-king",
+    "title": "The Shadow of the Gods",
+    "author": "John Gwynne",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780316539883-L.jpg",
+    "vibeTags": ["Norse", "fantasy", "epic", "brutal", "mythic", "cold", "warrior"],
+    "vibeVector": {
+      "melancholy": 0.6,
+      "intimacy": 0.5,
+      "intensity": 0.85,
+      "hope": 0.45,
+      "tension": 0.8,
+      "warmth": 0.35,
+      "nostalgia": 0.45,
+      "eeriness": 0.55,
+      "pace": 0.65
+    },
+    "vibeBlurb": "A world where the gods are dead but their power lingers. Viking-inspired warriors and monsters. Ice and blood and the bonds that survive both."
+  },
+  {
+    "id": "the-name-of-rose",
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780151446476-L.jpg",
+    "vibeTags": ["medieval", "mystery", "literary", "atmospheric", "intellectual", "monastery", "dark"],
+    "vibeVector": {
+      "melancholy": 0.7,
+      "intimacy": 0.45,
+      "intensity": 0.7,
+      "hope": 0.3,
+      "tension": 0.75,
+      "warmth": 0.25,
+      "nostalgia": 0.65,
+      "eeriness": 0.7,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A labyrinthine library hiding deadly secrets. Medieval monks and forbidden knowledge. The pursuit of truth in a world that fears it."
+  },
+  {
+    "id": "the-four-winds",
+    "title": "The Four Winds",
+    "author": "Kristin Hannah",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781250178602-L.jpg",
+    "vibeTags": ["dustbowl", "survival", "maternal", "American", "historical", "migration", "resilient"],
+    "vibeVector": {
+      "melancholy": 0.8,
+      "intimacy": 0.75,
+      "intensity": 0.75,
+      "hope": 0.45,
+      "tension": 0.7,
+      "warmth": 0.55,
+      "nostalgia": 0.7,
+      "eeriness": 0.3,
+      "pace": 0.5
+    },
+    "vibeBlurb": "Dust storms that bury everything including hope. A mother's desperate journey westward. The strength it takes to survive when the land turns against you."
+  },
+  {
+    "id": "project-hail-mary",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg",
+    "vibeTags": ["sci-fi", "hopeful", "problem-solving", "friendship", "space", "survival", "witty"],
+    "vibeVector": {
+      "melancholy": 0.4,
+      "intimacy": 0.65,
+      "intensity": 0.7,
+      "hope": 0.8,
+      "tension": 0.65,
+      "warmth": 0.6,
+      "nostalgia": 0.35,
+      "eeriness": 0.35,
+      "pace": 0.65
+    },
+    "vibeBlurb": "A teacher waking up alone in space with humanity's survival at stake. Science as salvation. The unlikely friendship that saves everything."
+  },
+  {
+    "id": "the-silent-patient",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781250301697-L.jpg",
+    "vibeTags": ["psychological", "thriller", "silent", "twisted", "suspenseful", "therapy", "dark"],
+    "vibeVector": {
+      "melancholy": 0.65,
+      "intimacy": 0.55,
+      "intensity": 0.8,
+      "hope": 0.25,
+      "tension": 0.9,
+      "warmth": 0.15,
+      "nostalgia": 0.3,
+      "eeriness": 0.75,
+      "pace": 0.7
+    },
+    "vibeBlurb": "A woman who shot her husband and never spoke again. A therapist obsessed with unlocking her silence. The truth hiding in plain sight."
+  },
+  {
+    "id": "the-night-sister",
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9780765387561-L.jpg",
+    "vibeTags": ["magical", "romantic", "lonely", "centuries", "Parisian", "deal", "bittersweet"],
+    "vibeVector": {
+      "melancholy": 0.75,
+      "intimacy": 0.65,
+      "intensity": 0.6,
+      "hope": 0.5,
+      "tension": 0.5,
+      "warmth": 0.5,
+      "nostalgia": 0.8,
+      "eeriness": 0.45,
+      "pace": 0.4
+    },
+    "vibeBlurb": "A woman cursed to be forgotten by everyone she meets. Three hundred years of invisible existence. The first person who finally remembers her name."
+  }
+]

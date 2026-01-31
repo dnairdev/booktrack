@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "young-and-beautiful",
+    "title": "Young and Beautiful",
+    "artist": "Lana Del Rey",
+    "spotifyUrl": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "romantic", "melancholic", "glamorous", "cinematic", "yearning"],
+    "audio": { "energy": 0.25, "valence": 0.15, "tempo": 0.35, "acousticness": 0.7, "danceability": 0.3 },
+    "moodBlurb": "Gilded longing wrapped in strings. The fear of love fading with youth, set against 1920s grandeur."
+  },
+  {
+    "id": "motion-sickness",
+    "title": "Motion Sickness",
+    "artist": "Phoebe Bridgers",
+    "spotifyUrl": "https://open.spotify.com/track/35WMxMVfF7q0Ji8WdHSqU4",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "intimate", "raw", "indie", "bittersweet", "contemporary"],
+    "audio": { "energy": 0.45, "valence": 0.25, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.45 },
+    "moodBlurb": "Sharp observations delivered softly. The push and pull of complicated relationships, anger hidden in a whisper."
+  },
+  {
+    "id": "cherry-wine",
+    "title": "Cherry Wine",
+    "artist": "Hozier",
+    "spotifyUrl": "https://open.spotify.com/track/2P9M9BD7N0BPwIxVLvOpux",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "tender", "melancholic", "acoustic", "romantic", "dark"],
+    "audio": { "energy": 0.2, "valence": 0.2, "tempo": 0.3, "acousticness": 0.95, "danceability": 0.25 },
+    "moodBlurb": "Achingly gentle acoustic confessions. Love that knows it's dangerous but can't let go."
+  },
+  {
+    "id": "skinny-love",
+    "title": "Skinny Love",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "raw", "melancholic", "folk", "heartbreaking", "winter"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.45, "acousticness": 0.85, "danceability": 0.3 },
+    "moodBlurb": "Falsetto cries in a wooden cabin. Love stripped down to its most fragile, desperate form."
+  },
+  {
+    "id": "cosmic-love",
+    "title": "Cosmic Love",
+    "artist": "Florence + The Machine",
+    "spotifyUrl": "https://open.spotify.com/track/3sVUhznYPBk4eq2o9FRQT6",
+    "previewUrl": null,
+    "vibeTags": ["epic", "romantic", "intense", "dramatic", "ethereal", "passionate"],
+    "audio": { "energy": 0.85, "valence": 0.35, "tempo": 0.65, "acousticness": 0.15, "danceability": 0.45 },
+    "moodBlurb": "Stars colliding in the dark. Love as a force of nature, overwhelming and all-consuming."
+  },
+  {
+    "id": "claire-de-lune",
+    "title": "Clair de Lune",
+    "artist": "Claude Debussy",
+    "spotifyUrl": "https://open.spotify.com/track/5ItvOcD12xyMQdPBSfFnMd",
+    "previewUrl": null,
+    "vibeTags": ["classical", "melancholic", "dreamy", "elegant", "nostalgic", "moonlit"],
+    "audio": { "energy": 0.1, "valence": 0.3, "tempo": 0.2, "acousticness": 0.98, "danceability": 0.1 },
+    "moodBlurb": "Moonlight spilling across piano keys. The quiet ache of memory and beauty intertwined."
+  },
+  {
+    "id": "space-song",
+    "title": "Space Song",
+    "artist": "Beach House",
+    "spotifyUrl": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow",
+    "previewUrl": null,
+    "vibeTags": ["dreamy", "melancholic", "ethereal", "shoegaze", "nostalgic", "spacey"],
+    "audio": { "energy": 0.35, "valence": 0.25, "tempo": 0.4, "acousticness": 0.25, "danceability": 0.35 },
+    "moodBlurb": "Drifting through cosmos of feeling. The weightless sadness of letting go and floating away."
+  },
+  {
+    "id": "video-games",
+    "title": "Video Games",
+    "artist": "Lana Del Rey",
+    "spotifyUrl": "https://open.spotify.com/track/5UOo694cVvjcPFqLFiNWGU",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "melancholic", "romantic", "summer", "dreamy", "cinematic"],
+    "audio": { "energy": 0.25, "valence": 0.2, "tempo": 0.35, "acousticness": 0.65, "danceability": 0.3 },
+    "moodBlurb": "Lazy summer afternoons drenched in nostalgia. Devotion wrapped in vintage Americana haze."
+  },
+  {
+    "id": "breathe-me",
+    "title": "Breathe Me",
+    "artist": "Sia",
+    "spotifyUrl": "https://open.spotify.com/track/6hrgeEo1WQOHVeF8QMv68S",
+    "previewUrl": null,
+    "vibeTags": ["vulnerable", "intimate", "melancholic", "tender", "emotional", "quiet"],
+    "audio": { "energy": 0.3, "valence": 0.15, "tempo": 0.35, "acousticness": 0.55, "danceability": 0.25 },
+    "moodBlurb": "A whispered plea for connection. The courage it takes to admit you're breaking."
+  },
+  {
+    "id": "rhiannon",
+    "title": "Rhiannon",
+    "artist": "Fleetwood Mac",
+    "spotifyUrl": "https://open.spotify.com/track/2WYyLJpHSIqonwXqOlL3nl",
+    "previewUrl": null,
+    "vibeTags": ["mystical", "witchy", "70s", "atmospheric", "feminine", "enchanting"],
+    "audio": { "energy": 0.6, "valence": 0.45, "tempo": 0.55, "acousticness": 0.35, "danceability": 0.55 },
+    "moodBlurb": "A witch taken by the wind. Mystery and power woven through classic rock velvet."
+  },
+  {
+    "id": "apocalypse",
+    "title": "Apocalypse",
+    "artist": "Cigarettes After Sex",
+    "spotifyUrl": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "dreamy", "romantic", "melancholic", "tender", "nocturnal"],
+    "audio": { "energy": 0.15, "valence": 0.2, "tempo": 0.25, "acousticness": 0.45, "danceability": 0.25 },
+    "moodBlurb": "Love whispered in the dark. The end of the world shrunk down to two people."
+  },
+  {
+    "id": "no-surprises",
+    "title": "No Surprises",
+    "artist": "Radiohead",
+    "spotifyUrl": "https://open.spotify.com/track/3kf6weeFq1Tc5aeK9PLMK9",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "gentle", "eerie", "beautiful", "suffocating", "quiet"],
+    "audio": { "energy": 0.25, "valence": 0.2, "tempo": 0.35, "acousticness": 0.55, "danceability": 0.25 },
+    "moodBlurb": "Lullaby for the quietly desperate. Beautiful melody hiding existential exhaustion."
+  },
+  {
+    "id": "wicked-game",
+    "title": "Wicked Game",
+    "artist": "Chris Isaak",
+    "spotifyUrl": "https://open.spotify.com/track/2YBqLzzb7f7Dg7H4cDfxU4",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "melancholic", "yearning", "sensual", "dramatic", "80s"],
+    "audio": { "energy": 0.4, "valence": 0.2, "tempo": 0.4, "acousticness": 0.4, "danceability": 0.35 },
+    "moodBlurb": "Desire that burns like slow fire. The sweet torture of loving what you can't have."
+  },
+  {
+    "id": "nights",
+    "title": "Nights",
+    "artist": "Frank Ocean",
+    "spotifyUrl": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ",
+    "previewUrl": null,
+    "vibeTags": ["nocturnal", "introspective", "melancholic", "contemporary", "urban", "transformative"],
+    "audio": { "energy": 0.55, "valence": 0.4, "tempo": 0.55, "acousticness": 0.2, "danceability": 0.55 },
+    "moodBlurb": "The shift from day to night, from one life to another. Memory and ambition colliding at the switch."
+  },
+  {
+    "id": "mad-world",
+    "title": "Mad World",
+    "artist": "Gary Jules",
+    "spotifyUrl": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "dystopian", "haunting", "minimal", "observational", "eerie"],
+    "audio": { "energy": 0.15, "valence": 0.1, "tempo": 0.3, "acousticness": 0.85, "danceability": 0.2 },
+    "moodBlurb": "The world seen through glass, cold and strange. Childhood wonder curdled into adult numbness."
+  },
+  {
+    "id": "exile",
+    "title": "exile",
+    "artist": "Taylor Swift ft. Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "intimate", "folk", "heartbreaking", "nostalgic", "duet"],
+    "audio": { "energy": 0.45, "valence": 0.2, "tempo": 0.45, "acousticness": 0.65, "danceability": 0.35 },
+    "moodBlurb": "Two perspectives on the same heartbreak. The pain of realizing you never understood each other at all."
+  },
+  {
+    "id": "creep",
+    "title": "Creep",
+    "artist": "Radiohead",
+    "spotifyUrl": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "intense", "self-loathing", "90s", "dramatic", "raw"],
+    "audio": { "energy": 0.65, "valence": 0.2, "tempo": 0.5, "acousticness": 0.25, "danceability": 0.35 },
+    "moodBlurb": "Worship from the shadows. The ache of feeling utterly out of place in a beautiful world."
+  },
+  {
+    "id": "running-up-that-hill",
+    "title": "Running Up That Hill",
+    "artist": "Kate Bush",
+    "spotifyUrl": "https://open.spotify.com/track/75FEaRjZTKLhTYFePMSPOD",
+    "previewUrl": null,
+    "vibeTags": ["ethereal", "intense", "yearning", "80s", "dramatic", "mystical"],
+    "audio": { "energy": 0.7, "valence": 0.35, "tempo": 0.6, "acousticness": 0.1, "danceability": 0.6 },
+    "moodBlurb": "A desperate bargain with God. The wish to trade places, to truly understand another soul."
+  },
+  {
+    "id": "everybodys-changing",
+    "title": "Everybody's Changing",
+    "artist": "Keane",
+    "spotifyUrl": "https://open.spotify.com/track/1HOWKkxe0kxcfGHMCGNlAk",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "bittersweet", "hopeful", "coming-of-age", "2000s", "anthemic"],
+    "audio": { "energy": 0.65, "valence": 0.45, "tempo": 0.55, "acousticness": 0.25, "danceability": 0.5 },
+    "moodBlurb": "The panic of watching everyone grow while you stand still. Change as both threat and promise."
+  },
+  {
+    "id": "landslide",
+    "title": "Landslide",
+    "artist": "Fleetwood Mac",
+    "spotifyUrl": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "tender", "melancholic", "acoustic", "introspective", "timeless"],
+    "audio": { "energy": 0.2, "valence": 0.35, "tempo": 0.35, "acousticness": 0.95, "danceability": 0.25 },
+    "moodBlurb": "Standing at the crossroads of time. The gentle terror of looking back and forward at once."
+  },
+  {
+    "id": "skinny-ape",
+    "title": "Supermassive Black Hole",
+    "artist": "Muse",
+    "spotifyUrl": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9",
+    "previewUrl": null,
+    "vibeTags": ["intense", "seductive", "dark", "dramatic", "energetic", "rock"],
+    "audio": { "energy": 0.85, "valence": 0.5, "tempo": 0.7, "acousticness": 0.05, "danceability": 0.7 },
+    "moodBlurb": "Gravitational pull made sonic. Seduction and destruction orbiting each other endlessly."
+  },
+  {
+    "id": "unwritten",
+    "title": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "spotifyUrl": "https://open.spotify.com/track/6J2LdBN97cDWORBhoBKQqR",
+    "previewUrl": null,
+    "vibeTags": ["hopeful", "uplifting", "optimistic", "coming-of-age", "empowering", "bright"],
+    "audio": { "energy": 0.8, "valence": 0.85, "tempo": 0.65, "acousticness": 0.15, "danceability": 0.65 },
+    "moodBlurb": "The blank page of possibility. Every moment a chance to rewrite who you are."
+  },
+  {
+    "id": "teardrop",
+    "title": "Teardrop",
+    "artist": "Massive Attack",
+    "spotifyUrl": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ",
+    "previewUrl": null,
+    "vibeTags": ["ethereal", "melancholic", "atmospheric", "trip-hop", "haunting", "tender"],
+    "audio": { "energy": 0.35, "valence": 0.25, "tempo": 0.4, "acousticness": 0.3, "danceability": 0.4 },
+    "moodBlurb": "A heartbeat made visible. The delicate violence of love and loss suspended in air."
+  },
+  {
+    "id": "bittersweet-symphony",
+    "title": "Bitter Sweet Symphony",
+    "artist": "The Verve",
+    "spotifyUrl": "https://open.spotify.com/track/57KWKB4iJFSpqrHQaeOXFV",
+    "previewUrl": null,
+    "vibeTags": ["anthemic", "melancholic", "dramatic", "90s", "orchestral", "existential"],
+    "audio": { "energy": 0.65, "valence": 0.35, "tempo": 0.55, "acousticness": 0.25, "danceability": 0.45 },
+    "moodBlurb": "Strings that build like life itself. The walk through a world you can't quite control."
+  },
+  {
+    "id": "how-to-save-a-life",
+    "title": "How to Save a Life",
+    "artist": "The Fray",
+    "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "earnest", "emotional", "2000s", "piano", "heartfelt"],
+    "audio": { "energy": 0.5, "valence": 0.25, "tempo": 0.5, "acousticness": 0.55, "danceability": 0.4 },
+    "moodBlurb": "The moment you realize you couldn't reach them. Regret and helplessness crystallized in piano."
+  },
+  {
+    "id": "unchained-melody",
+    "title": "Unchained Melody",
+    "artist": "Righteous Brothers",
+    "spotifyUrl": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "yearning", "classic", "tender", "nostalgic", "passionate"],
+    "audio": { "energy": 0.4, "valence": 0.35, "tempo": 0.4, "acousticness": 0.55, "danceability": 0.35 },
+    "moodBlurb": "Longing that transcends time. A voice reaching across impossible distance for the one it loves."
+  },
+  {
+    "id": "karma-police",
+    "title": "Karma Police",
+    "artist": "Radiohead",
+    "spotifyUrl": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
+    "previewUrl": null,
+    "vibeTags": ["paranoid", "melancholic", "atmospheric", "eerie", "political", "90s"],
+    "audio": { "energy": 0.45, "valence": 0.2, "tempo": 0.45, "acousticness": 0.45, "danceability": 0.35 },
+    "moodBlurb": "The quiet menace of surveillance. Justice as a weapon wielded by the weary."
+  },
+  {
+    "id": "saturn",
+    "title": "Saturn",
+    "artist": "Sleeping At Last",
+    "spotifyUrl": "https://open.spotify.com/track/5YkCsAFpRWMBigkgKBMoaH",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "cosmic", "hopeful", "tender", "orchestral", "wonder"],
+    "audio": { "energy": 0.35, "valence": 0.4, "tempo": 0.4, "acousticness": 0.7, "danceability": 0.25 },
+    "moodBlurb": "The impossible scale of the universe made personal. Wonder and gratitude for existing at all."
+  },
+  {
+    "id": "born-to-die",
+    "title": "Born to Die",
+    "artist": "Lana Del Rey",
+    "spotifyUrl": "https://open.spotify.com/track/3DWLdNqxiJTh8sYjl9pKbW",
+    "previewUrl": null,
+    "vibeTags": ["tragic", "romantic", "cinematic", "dramatic", "doomed", "glamorous"],
+    "audio": { "energy": 0.55, "valence": 0.25, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.4 },
+    "moodBlurb": "Love with an expiration date printed on it. The glamour of choosing destruction together."
+  },
+  {
+    "id": "dreams",
+    "title": "Dreams",
+    "artist": "Fleetwood Mac",
+    "spotifyUrl": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "bittersweet", "70s", "romantic", "smooth", "wise"],
+    "audio": { "energy": 0.5, "valence": 0.45, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.55 },
+    "moodBlurb": "Wisdom wrapped in velvet harmonies. The calm acceptance of heartbreak's inevitability."
+  },
+  {
+    "id": "black-hole-sun",
+    "title": "Black Hole Sun",
+    "artist": "Soundgarden",
+    "spotifyUrl": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3",
+    "previewUrl": null,
+    "vibeTags": ["dark", "surreal", "90s", "grunge", "apocalyptic", "atmospheric"],
+    "audio": { "energy": 0.55, "valence": 0.2, "tempo": 0.45, "acousticness": 0.2, "danceability": 0.35 },
+    "moodBlurb": "A prayer for oblivion. The beauty of destruction washing everything clean."
+  },
+  {
+    "id": "the-sound-of-silence",
+    "title": "The Sound of Silence",
+    "artist": "Simon & Garfunkel",
+    "spotifyUrl": "https://open.spotify.com/track/3YfS47QufnLDFA71FUsgCM",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "atmospheric", "folk", "introspective", "timeless", "prophetic"],
+    "audio": { "energy": 0.3, "valence": 0.2, "tempo": 0.35, "acousticness": 0.75, "danceability": 0.3 },
+    "moodBlurb": "Darkness as a conversation partner. The profound loneliness of modern disconnection."
+  },
+  {
+    "id": "hallelujah",
+    "title": "Hallelujah",
+    "artist": "Jeff Buckley",
+    "spotifyUrl": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "spiritual", "intimate", "raw", "beautiful", "devastating"],
+    "audio": { "energy": 0.35, "valence": 0.2, "tempo": 0.35, "acousticness": 0.85, "danceability": 0.25 },
+    "moodBlurb": "A broken hallelujah that still means something. Love and loss and faith all tangled together."
+  },
+  {
+    "id": "summertime-sadness",
+    "title": "Summertime Sadness",
+    "artist": "Lana Del Rey",
+    "spotifyUrl": "https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "melancholic", "summer", "romantic", "cinematic", "bittersweet"],
+    "audio": { "energy": 0.55, "valence": 0.25, "tempo": 0.55, "acousticness": 0.2, "danceability": 0.55 },
+    "moodBlurb": "Sun-drenched melancholy. The way summer endings feel like little deaths."
+  },
+  {
+    "id": "somebody-that-i-used-to-know",
+    "title": "Somebody That I Used to Know",
+    "artist": "Gotye",
+    "spotifyUrl": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "bittersweet", "indie", "raw", "breakup", "contemporary"],
+    "audio": { "energy": 0.55, "valence": 0.35, "tempo": 0.55, "acousticness": 0.45, "danceability": 0.55 },
+    "moodBlurb": "The strange erasure of intimacy. How someone can become a stranger after being everything."
+  },
+  {
+    "id": "in-the-air-tonight",
+    "title": "In the Air Tonight",
+    "artist": "Phil Collins",
+    "spotifyUrl": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY",
+    "previewUrl": null,
+    "vibeTags": ["atmospheric", "intense", "dark", "80s", "dramatic", "mysterious"],
+    "audio": { "energy": 0.55, "valence": 0.25, "tempo": 0.45, "acousticness": 0.2, "danceability": 0.45 },
+    "moodBlurb": "Tension building like a storm. The anticipation of something inevitable and dark."
+  },
+  {
+    "id": "fast-car",
+    "title": "Fast Car",
+    "artist": "Tracy Chapman",
+    "spotifyUrl": "https://open.spotify.com/track/3jQZKaCJvzVFqaWvHhNOtQ",
+    "previewUrl": null,
+    "vibeTags": ["hopeful", "melancholic", "folk", "escapist", "tender", "working-class"],
+    "audio": { "energy": 0.45, "valence": 0.35, "tempo": 0.5, "acousticness": 0.65, "danceability": 0.45 },
+    "moodBlurb": "The dream of driving away from everything. Hope and disappointment racing side by side."
+  },
+  {
+    "id": "all-too-well",
+    "title": "All Too Well (10 Minute Version)",
+    "artist": "Taylor Swift",
+    "spotifyUrl": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "intimate", "heartbreaking", "folk", "autumn", "confessional"],
+    "audio": { "energy": 0.45, "valence": 0.2, "tempo": 0.45, "acousticness": 0.55, "danceability": 0.4 },
+    "moodBlurb": "Memory as a wound that won't heal. Every detail of a relationship preserved in amber and pain."
+  },
+  {
+    "id": "heroes",
+    "title": "Heroes",
+    "artist": "David Bowie",
+    "spotifyUrl": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
+    "previewUrl": null,
+    "vibeTags": ["epic", "romantic", "anthemic", "hopeful", "dramatic", "defiant"],
+    "audio": { "energy": 0.7, "valence": 0.45, "tempo": 0.55, "acousticness": 0.15, "danceability": 0.45 },
+    "moodBlurb": "One day of defiant love against the world. The choice to be extraordinary even when it's impossible."
+  },
+  {
+    "id": "feeling-good",
+    "title": "Feeling Good",
+    "artist": "Nina Simone",
+    "spotifyUrl": "https://open.spotify.com/track/6nK2pIKFnlaIpkmHmq7jOP",
+    "previewUrl": null,
+    "vibeTags": ["empowering", "jazzy", "classic", "triumphant", "dramatic", "transformative"],
+    "audio": { "energy": 0.55, "valence": 0.6, "tempo": 0.5, "acousticness": 0.65, "danceability": 0.45 },
+    "moodBlurb": "The dawn after the longest night. Reclaiming yourself with power and grace."
+  },
+  {
+    "id": "everybody-wants-to-rule-the-world",
+    "title": "Everybody Wants to Rule the World",
+    "artist": "Tears for Fears",
+    "spotifyUrl": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE",
+    "previewUrl": null,
+    "vibeTags": ["80s", "anthemic", "bittersweet", "political", "nostalgic", "driving"],
+    "audio": { "energy": 0.65, "valence": 0.55, "tempo": 0.6, "acousticness": 0.15, "danceability": 0.65 },
+    "moodBlurb": "Synth-pop wisdom about power and desire. The seductive danger of ambition."
+  },
+  {
+    "id": "cry-me-a-river",
+    "title": "Cry Me a River",
+    "artist": "Julie London",
+    "spotifyUrl": "https://open.spotify.com/track/2mPJhOG8GShvPUhcMfhiYN",
+    "previewUrl": null,
+    "vibeTags": ["jazzy", "melancholic", "vintage", "smoky", "bitter", "elegant"],
+    "audio": { "energy": 0.2, "valence": 0.15, "tempo": 0.3, "acousticness": 0.85, "danceability": 0.3 },
+    "moodBlurb": "Revenge served ice cold in a velvet voice. The satisfaction of surviving someone's regret."
+  },
+  {
+    "id": "hounds-of-love",
+    "title": "Hounds of Love",
+    "artist": "Kate Bush",
+    "spotifyUrl": "https://open.spotify.com/track/75WE7gBPCP2HfDWwhYqgOi",
+    "previewUrl": null,
+    "vibeTags": ["intense", "romantic", "80s", "dramatic", "fearful", "passionate"],
+    "audio": { "energy": 0.75, "valence": 0.5, "tempo": 0.65, "acousticness": 0.1, "danceability": 0.6 },
+    "moodBlurb": "Love as pursuit and terror. The terrifying vulnerability of surrender."
+  },
+  {
+    "id": "a-case-of-you",
+    "title": "A Case of You",
+    "artist": "Joni Mitchell",
+    "spotifyUrl": "https://open.spotify.com/track/4iC0Hy21fjYz2F4xN7qbGk",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "folk", "melancholic", "romantic", "confessional", "tender"],
+    "audio": { "energy": 0.2, "valence": 0.25, "tempo": 0.3, "acousticness": 0.95, "danceability": 0.25 },
+    "moodBlurb": "Love like drinking wine until you can't stand. The willingness to be completely consumed."
+  },
+  {
+    "id": "kiss-from-a-rose",
+    "title": "Kiss from a Rose",
+    "artist": "Seal",
+    "spotifyUrl": "https://open.spotify.com/track/6dl4sDgXoU99XZ3eNZvpJj",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "dramatic", "90s", "passionate", "gothic", "emotional"],
+    "audio": { "energy": 0.55, "valence": 0.35, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.4 },
+    "moodBlurb": "Love as addiction and light. The strange way darkness makes beauty more precious."
+  },
+  {
+    "id": "iris",
+    "title": "Iris",
+    "artist": "Goo Goo Dolls",
+    "spotifyUrl": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "yearning", "90s", "anthemic", "emotional", "longing"],
+    "audio": { "energy": 0.65, "valence": 0.25, "tempo": 0.55, "acousticness": 0.3, "danceability": 0.4 },
+    "moodBlurb": "The wish to be truly seen by one person. Love that would give up everything for a moment of understanding."
+  },
+  {
+    "id": "nutshell",
+    "title": "Nutshell",
+    "artist": "Alice in Chains",
+    "spotifyUrl": "https://open.spotify.com/track/2IZRMSWvFMGpKgLkMhvPh7",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "raw", "grunge", "introspective", "dark", "acoustic"],
+    "audio": { "energy": 0.35, "valence": 0.1, "tempo": 0.4, "acousticness": 0.75, "danceability": 0.3 },
+    "moodBlurb": "The weight of trying to change and failing. Stripped-down honesty about struggling to hold on."
+  },
+  {
+    "id": "purple-rain",
+    "title": "Purple Rain",
+    "artist": "Prince",
+    "spotifyUrl": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz",
+    "previewUrl": null,
+    "vibeTags": ["epic", "romantic", "dramatic", "passionate", "redemptive", "80s"],
+    "audio": { "energy": 0.55, "valence": 0.35, "tempo": 0.45, "acousticness": 0.25, "danceability": 0.35 },
+    "moodBlurb": "Guitar solo as spiritual transcendence. Love and regret washed clean in purple light."
+  },
+  {
+    "id": "fake-plastic-trees",
+    "title": "Fake Plastic Trees",
+    "artist": "Radiohead",
+    "spotifyUrl": "https://open.spotify.com/track/73YUReisjb8TZS7PVJTb7J",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "beautiful", "90s", "atmospheric", "quiet", "existential"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.4, "acousticness": 0.55, "danceability": 0.3 },
+    "moodBlurb": "The exhaustion of living in an artificial world. Beauty found in weariness and plastic dreams."
+  },
+  {
+    "id": "perfect",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "spotifyUrl": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "tender", "warm", "hopeful", "wedding", "sweet"],
+    "audio": { "energy": 0.35, "valence": 0.55, "tempo": 0.4, "acousticness": 0.75, "danceability": 0.35 },
+    "moodBlurb": "Simple, uncomplicated love. Finding your person and knowing they're the one."
+  },
+  {
+    "id": "africa",
+    "title": "Africa",
+    "artist": "Toto",
+    "spotifyUrl": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "80s", "romantic", "epic", "warm", "adventure"],
+    "audio": { "energy": 0.65, "valence": 0.65, "tempo": 0.6, "acousticness": 0.2, "danceability": 0.6 },
+    "moodBlurb": "Yearning for somewhere you've never been. The romance of rain and distant places."
+  },
+  {
+    "id": "blue",
+    "title": "Blue",
+    "artist": "Joni Mitchell",
+    "spotifyUrl": "https://open.spotify.com/track/2IhiGRlgSHIPF3CsI0xkBt",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "melancholic", "folk", "confessional", "vulnerable", "acoustic"],
+    "audio": { "energy": 0.15, "valence": 0.2, "tempo": 0.25, "acousticness": 0.95, "danceability": 0.2 },
+    "moodBlurb": "The color of sadness made into sound. Raw vulnerability with nowhere to hide."
+  },
+  {
+    "id": "time-after-time",
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "spotifyUrl": "https://open.spotify.com/track/2gEfnvqdzd5sOB3D6O5eFT",
+    "previewUrl": null,
+    "vibeTags": ["tender", "romantic", "80s", "nostalgic", "devotion", "comforting"],
+    "audio": { "energy": 0.45, "valence": 0.4, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.5 },
+    "moodBlurb": "A promise that echoes through years. Being the constant in someone's changing life."
+  },
+  {
+    "id": "little-lies",
+    "title": "Little Lies",
+    "artist": "Fleetwood Mac",
+    "spotifyUrl": "https://open.spotify.com/track/2Q2NUbPb0TqUgQRnnFlYPj",
+    "previewUrl": null,
+    "vibeTags": ["bittersweet", "80s", "romantic", "denial", "catchy", "nostalgic"],
+    "audio": { "energy": 0.7, "valence": 0.6, "tempo": 0.6, "acousticness": 0.15, "danceability": 0.7 },
+    "moodBlurb": "The comfort of beautiful untruths. Dancing through heartbreak with a smile."
+  },
+  {
+    "id": "girl-put-your-records-on",
+    "title": "Put Your Records On",
+    "artist": "Corinne Bailey Rae",
+    "spotifyUrl": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx",
+    "previewUrl": null,
+    "vibeTags": ["warm", "comforting", "summery", "hopeful", "gentle", "self-love"],
+    "audio": { "energy": 0.55, "valence": 0.75, "tempo": 0.55, "acousticness": 0.55, "danceability": 0.65 },
+    "moodBlurb": "Sunlight through kitchen windows. The quiet encouragement to be exactly who you are."
+  },
+  {
+    "id": "fix-you",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "spotifyUrl": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q",
+    "previewUrl": null,
+    "vibeTags": ["emotional", "hopeful", "anthemic", "comforting", "tender", "building"],
+    "audio": { "energy": 0.55, "valence": 0.25, "tempo": 0.45, "acousticness": 0.4, "danceability": 0.35 },
+    "moodBlurb": "The promise to be there when everything falls apart. Love as patient rebuilding."
+  },
+  {
+    "id": "chasing-pavements",
+    "title": "Chasing Pavements",
+    "artist": "Adele",
+    "spotifyUrl": "https://open.spotify.com/track/3z7dT4bnSjPbgdvJNjmR9Z",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "soulful", "uncertain", "romantic", "emotional", "searching"],
+    "audio": { "energy": 0.5, "valence": 0.3, "tempo": 0.5, "acousticness": 0.45, "danceability": 0.45 },
+    "moodBlurb": "The circular maze of unrequited love. Running toward something that might lead nowhere."
+  },
+  {
+    "id": "love-song",
+    "title": "Lovesong",
+    "artist": "The Cure",
+    "spotifyUrl": "https://open.spotify.com/track/4ZWFO6oZXnSDViFrSjCDvz",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "dreamy", "80s", "devoted", "tender", "gothic"],
+    "audio": { "energy": 0.6, "valence": 0.4, "tempo": 0.55, "acousticness": 0.2, "danceability": 0.5 },
+    "moodBlurb": "Simple devotion in swirling guitars. Love stripped to its most essential promise."
+  },
+  {
+    "id": "viva-la-vida",
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "spotifyUrl": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
+    "previewUrl": null,
+    "vibeTags": ["epic", "anthemic", "bittersweet", "orchestral", "reflective", "powerful"],
+    "audio": { "energy": 0.75, "valence": 0.5, "tempo": 0.6, "acousticness": 0.15, "danceability": 0.55 },
+    "moodBlurb": "The rise and fall of kingdoms inside one person. Glory remembered from the ground."
+  },
+  {
+    "id": "ocean-eyes",
+    "title": "Ocean Eyes",
+    "artist": "Billie Eilish",
+    "spotifyUrl": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9",
+    "previewUrl": null,
+    "vibeTags": ["dreamy", "intimate", "ethereal", "young", "vulnerable", "atmospheric"],
+    "audio": { "energy": 0.25, "valence": 0.3, "tempo": 0.4, "acousticness": 0.4, "danceability": 0.35 },
+    "moodBlurb": "Falling into someone's gaze and losing yourself there. First love as tidal pull."
+  },
+  {
+    "id": "angels",
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "spotifyUrl": "https://open.spotify.com/track/2rCt1McBSBJqFwZcx8SKSU",
+    "previewUrl": null,
+    "vibeTags": ["comforting", "anthemic", "spiritual", "warm", "devoted", "90s"],
+    "audio": { "energy": 0.55, "valence": 0.4, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.45 },
+    "moodBlurb": "The feeling of being watched over. Love that protects even when the world doesn't."
+  },
+  {
+    "id": "strange-fruit",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "spotifyUrl": "https://open.spotify.com/track/1CTex49P6dFcqFAkVi03TX",
+    "previewUrl": null,
+    "vibeTags": ["haunting", "political", "jazz", "painful", "important", "dark"],
+    "audio": { "energy": 0.15, "valence": 0.05, "tempo": 0.25, "acousticness": 0.9, "danceability": 0.2 },
+    "moodBlurb": "Horror made beautiful and unbearable. The weight of witness carried in a voice."
+  },
+  {
+    "id": "moonlight-sonata",
+    "title": "Moonlight Sonata",
+    "artist": "Ludwig van Beethoven",
+    "spotifyUrl": "https://open.spotify.com/track/3DNRdudZ10JpbNLRik9qUp",
+    "previewUrl": null,
+    "vibeTags": ["classical", "melancholic", "nocturnal", "elegant", "haunting", "introspective"],
+    "audio": { "energy": 0.1, "valence": 0.15, "tempo": 0.2, "acousticness": 0.98, "danceability": 0.1 },
+    "moodBlurb": "Moonlight turned into notes. The weight of solitary thoughts in the quiet hours."
+  },
+  {
+    "id": "somebody-to-love",
+    "title": "Somebody to Love",
+    "artist": "Queen",
+    "spotifyUrl": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf",
+    "previewUrl": null,
+    "vibeTags": ["anthemic", "dramatic", "yearning", "gospel", "powerful", "emotional"],
+    "audio": { "energy": 0.85, "valence": 0.45, "tempo": 0.7, "acousticness": 0.2, "danceability": 0.5 },
+    "moodBlurb": "A cathedral of voices asking one question. The desperate need to be loved completely."
+  },
+  {
+    "id": "jealous",
+    "title": "Jealous",
+    "artist": "Labrinth",
+    "spotifyUrl": "https://open.spotify.com/track/3T4tUhGYeqNHnXtVfsxFeN",
+    "previewUrl": null,
+    "vibeTags": ["emotional", "powerful", "raw", "heartbreaking", "soulful", "intense"],
+    "audio": { "energy": 0.45, "valence": 0.15, "tempo": 0.4, "acousticness": 0.55, "danceability": 0.35 },
+    "moodBlurb": "Missing someone who's moved on. The impossible jealousy of watching them love again."
+  },
+  {
+    "id": "november-rain",
+    "title": "November Rain",
+    "artist": "Guns N' Roses",
+    "spotifyUrl": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM",
+    "previewUrl": null,
+    "vibeTags": ["epic", "melancholic", "romantic", "dramatic", "orchestral", "90s"],
+    "audio": { "energy": 0.6, "valence": 0.3, "tempo": 0.45, "acousticness": 0.35, "danceability": 0.35 },
+    "moodBlurb": "Rain on a wedding that can't last. The orchestral ache of love that wasn't enough."
+  },
+  {
+    "id": "take-on-me",
+    "title": "Take On Me",
+    "artist": "a-ha",
+    "spotifyUrl": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
+    "previewUrl": null,
+    "vibeTags": ["80s", "hopeful", "energetic", "romantic", "synth-pop", "nostalgic"],
+    "audio": { "energy": 0.9, "valence": 0.8, "tempo": 0.8, "acousticness": 0.05, "danceability": 0.8 },
+    "moodBlurb": "The exhilarating chase of new love. Synthesizers bright enough to jump into another world."
+  },
+  {
+    "id": "between-the-bars",
+    "title": "Between the Bars",
+    "artist": "Elliott Smith",
+    "spotifyUrl": "https://open.spotify.com/track/2pSB0L1g8dqiEWGBJUW8qx",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "melancholic", "whispered", "tender", "dark", "acoustic"],
+    "audio": { "energy": 0.1, "valence": 0.15, "tempo": 0.25, "acousticness": 0.95, "danceability": 0.2 },
+    "moodBlurb": "Escape offered in a whisper. The dangerous comfort of numbing the pain together."
+  },
+  {
+    "id": "glory-box",
+    "title": "Glory Box",
+    "artist": "Portishead",
+    "spotifyUrl": "https://open.spotify.com/track/5S7VJOd9d1jFR1aJHRWUiw",
+    "previewUrl": null,
+    "vibeTags": ["sensual", "atmospheric", "trip-hop", "melancholic", "smoky", "intimate"],
+    "audio": { "energy": 0.35, "valence": 0.25, "tempo": 0.35, "acousticness": 0.25, "danceability": 0.45 },
+    "moodBlurb": "Desire wrapped in scratched vinyl and longing. The plea for more than just this."
+  },
+  {
+    "id": "lover-you-shouldve-come-over",
+    "title": "Lover, You Should've Come Over",
+    "artist": "Jeff Buckley",
+    "spotifyUrl": "https://open.spotify.com/track/5pjANkHxLPqFCU8K0DxoMs",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "passionate", "raw", "romantic", "regretful", "intense"],
+    "audio": { "energy": 0.45, "valence": 0.15, "tempo": 0.4, "acousticness": 0.65, "danceability": 0.3 },
+    "moodBlurb": "Regret that could fill oceans. The empty space where love should have been."
+  },
+  {
+    "id": "everlong",
+    "title": "Everlong",
+    "artist": "Foo Fighters",
+    "spotifyUrl": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+    "previewUrl": null,
+    "vibeTags": ["passionate", "intense", "90s", "devoted", "rock", "breathless"],
+    "audio": { "energy": 0.85, "valence": 0.45, "tempo": 0.75, "acousticness": 0.05, "danceability": 0.45 },
+    "moodBlurb": "Love at full volume. The wish for this moment to never end, wrapped in distortion."
+  },
+  {
+    "id": "hide-and-seek",
+    "title": "Hide and Seek",
+    "artist": "Imogen Heap",
+    "spotifyUrl": "https://open.spotify.com/track/1OymOkCnJwcVXCPJGlDHjX",
+    "previewUrl": null,
+    "vibeTags": ["ethereal", "eerie", "a-cappella", "atmospheric", "vulnerable", "haunting"],
+    "audio": { "energy": 0.2, "valence": 0.15, "tempo": 0.35, "acousticness": 0.7, "danceability": 0.25 },
+    "moodBlurb": "Vocoder voices fracturing emotion. The surreal clarity of a world falling apart."
+  },
+  {
+    "id": "losing-my-religion",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "spotifyUrl": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx",
+    "previewUrl": null,
+    "vibeTags": ["obsessive", "90s", "yearning", "desperate", "melancholic", "alternative"],
+    "audio": { "energy": 0.55, "valence": 0.35, "tempo": 0.55, "acousticness": 0.4, "danceability": 0.5 },
+    "moodBlurb": "Unrequited love as existential crisis. The mandolin of madness and missed connections."
+  },
+  {
+    "id": "to-build-a-home",
+    "title": "To Build a Home",
+    "artist": "The Cinematic Orchestra",
+    "spotifyUrl": "https://open.spotify.com/track/54KFQB6N4pn926IWyMIDQR",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "melancholic", "intimate", "cinematic", "bittersweet", "orchestral"],
+    "audio": { "energy": 0.35, "valence": 0.2, "tempo": 0.35, "acousticness": 0.65, "danceability": 0.25 },
+    "moodBlurb": "Home as memory and loss. The piano chords of building something beautiful that couldn't last."
+  },
+  {
+    "id": "such-great-heights",
+    "title": "Such Great Heights",
+    "artist": "The Postal Service",
+    "spotifyUrl": "https://open.spotify.com/track/0HKwWqCaQDtzUW8KYPEX35",
+    "previewUrl": null,
+    "vibeTags": ["hopeful", "electronic", "indie", "romantic", "2000s", "sweet"],
+    "audio": { "energy": 0.65, "valence": 0.65, "tempo": 0.6, "acousticness": 0.15, "danceability": 0.6 },
+    "moodBlurb": "Electronic optimism about fate. The mathematical certainty that you belong together."
+  },
+  {
+    "id": "dont-look-back-in-anger",
+    "title": "Don't Look Back in Anger",
+    "artist": "Oasis",
+    "spotifyUrl": "https://open.spotify.com/track/6hLcbmQT4e0FmLLhFO9Ip0",
+    "previewUrl": null,
+    "vibeTags": ["anthemic", "nostalgic", "90s", "hopeful", "Britpop", "defiant"],
+    "audio": { "energy": 0.65, "valence": 0.55, "tempo": 0.55, "acousticness": 0.25, "danceability": 0.5 },
+    "moodBlurb": "A crowd with arms raised. The choice to let the past be the past, together."
+  },
+  {
+    "id": "someone-like-you",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "spotifyUrl": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV",
+    "previewUrl": null,
+    "vibeTags": ["heartbreaking", "intimate", "powerful", "melancholic", "piano", "resignation"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.4, "acousticness": 0.75, "danceability": 0.3 },
+    "moodBlurb": "The dignity of letting go. Wishing someone well when it destroys you to do so."
+  },
+  {
+    "id": "piano-man",
+    "title": "Piano Man",
+    "artist": "Billy Joel",
+    "spotifyUrl": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "storytelling", "warm", "bar-room", "melancholic", "classic"],
+    "audio": { "energy": 0.5, "valence": 0.45, "tempo": 0.5, "acousticness": 0.7, "danceability": 0.45 },
+    "moodBlurb": "A bar full of stories at closing time. The shared loneliness of broken dreams."
+  },
+  {
+    "id": "under-pressure",
+    "title": "Under Pressure",
+    "artist": "Queen & David Bowie",
+    "spotifyUrl": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x",
+    "previewUrl": null,
+    "vibeTags": ["intense", "dramatic", "anthemic", "emotional", "80s", "powerful"],
+    "audio": { "energy": 0.75, "valence": 0.4, "tempo": 0.6, "acousticness": 0.15, "danceability": 0.55 },
+    "moodBlurb": "The bass line of anxiety. Two legends asking if love can survive the weight."
+  },
+  {
+    "id": "riptide",
+    "title": "Riptide",
+    "artist": "Vance Joy",
+    "spotifyUrl": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd",
+    "previewUrl": null,
+    "vibeTags": ["uplifting", "indie", "catchy", "warm", "summery", "romantic"],
+    "audio": { "energy": 0.7, "valence": 0.7, "tempo": 0.6, "acousticness": 0.35, "danceability": 0.65 },
+    "moodBlurb": "Ukulele sunshine with undertow. Being swept up in someone against your better judgment."
+  },
+  {
+    "id": "the-blowers-daughter",
+    "title": "The Blower's Daughter",
+    "artist": "Damien Rice",
+    "spotifyUrl": "https://open.spotify.com/track/1wifqkCHNXAj5sLmkMNDgD",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "melancholic", "raw", "beautiful", "heartbreaking", "acoustic"],
+    "audio": { "energy": 0.3, "valence": 0.15, "tempo": 0.35, "acousticness": 0.85, "danceability": 0.25 },
+    "moodBlurb": "A voice cracking with restraint. Love measured in the inability to look away."
+  },
+  {
+    "id": "take-me-to-church",
+    "title": "Take Me to Church",
+    "artist": "Hozier",
+    "spotifyUrl": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn",
+    "previewUrl": null,
+    "vibeTags": ["passionate", "spiritual", "intense", "romantic", "dark", "devotional"],
+    "audio": { "energy": 0.65, "valence": 0.3, "tempo": 0.55, "acousticness": 0.35, "danceability": 0.45 },
+    "moodBlurb": "Love as the only religion that matters. Devotion and desire tangled in cathedral shadows."
+  },
+  {
+    "id": "first-day-of-my-life",
+    "title": "First Day of My Life",
+    "artist": "Bright Eyes",
+    "spotifyUrl": "https://open.spotify.com/track/6t9Z6HgYGJLRMfbB8GLPwl",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "hopeful", "tender", "indie", "acoustic", "sincere"],
+    "audio": { "energy": 0.25, "valence": 0.5, "tempo": 0.35, "acousticness": 0.9, "danceability": 0.35 },
+    "moodBlurb": "Waking up new because of someone. The simple miracle of love making life start over."
+  },
+  {
+    "id": "blackbird",
+    "title": "Blackbird",
+    "artist": "The Beatles",
+    "spotifyUrl": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+    "previewUrl": null,
+    "vibeTags": ["gentle", "hopeful", "acoustic", "simple", "transformative", "classic"],
+    "audio": { "energy": 0.25, "valence": 0.55, "tempo": 0.35, "acousticness": 0.95, "danceability": 0.35 },
+    "moodBlurb": "Fingers on acoustic strings at dawn. The permission to finally rise and fly."
+  },
+  {
+    "id": "wish-you-were-here",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "spotifyUrl": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "nostalgic", "rock", "contemplative", "bittersweet", "70s"],
+    "audio": { "energy": 0.4, "valence": 0.25, "tempo": 0.4, "acousticness": 0.55, "danceability": 0.35 },
+    "moodBlurb": "The distance between two people who used to be close. Missing what's right in front of you."
+  },
+  {
+    "id": "heartbeats",
+    "title": "Heartbeats",
+    "artist": "José González",
+    "spotifyUrl": "https://open.spotify.com/track/1c5vcjvGROGRqb5t9ypLJU",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "tender", "acoustic", "breathless", "minimal", "romantic"],
+    "audio": { "energy": 0.25, "valence": 0.4, "tempo": 0.35, "acousticness": 0.9, "danceability": 0.35 },
+    "moodBlurb": "Nylon strings and held breath. The universe contracted to two bodies together."
+  },
+  {
+    "id": "skinny-love-birdy",
+    "title": "Skinny Love",
+    "artist": "Birdy",
+    "spotifyUrl": "https://open.spotify.com/track/0e3VnKrCNLvB9p7Bz8YFMA",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "melancholic", "piano", "young", "tender", "fragile"],
+    "audio": { "energy": 0.3, "valence": 0.15, "tempo": 0.4, "acousticness": 0.9, "danceability": 0.3 },
+    "moodBlurb": "Youth carrying ancient grief. Love too fragile to survive, sung with devastating purity."
+  },
+  {
+    "id": "do-i-wanna-know",
+    "title": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "spotifyUrl": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst",
+    "previewUrl": null,
+    "vibeTags": ["seductive", "dark", "obsessive", "nocturnal", "indie", "brooding"],
+    "audio": { "energy": 0.55, "valence": 0.3, "tempo": 0.5, "acousticness": 0.1, "danceability": 0.55 },
+    "moodBlurb": "The bass line of 3 AM obsession. Crawling back to someone you should forget."
+  },
+  {
+    "id": "fade-into-you",
+    "title": "Fade into You",
+    "artist": "Mazzy Star",
+    "spotifyUrl": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK",
+    "previewUrl": null,
+    "vibeTags": ["dreamy", "intimate", "90s", "hazy", "romantic", "hypnotic"],
+    "audio": { "energy": 0.3, "valence": 0.25, "tempo": 0.35, "acousticness": 0.4, "danceability": 0.35 },
+    "moodBlurb": "Slow drift into another person. The wish to dissolve completely into someone else."
+  },
+  {
+    "id": "linger",
+    "title": "Linger",
+    "artist": "The Cranberries",
+    "spotifyUrl": "https://open.spotify.com/track/4Y5Cy7QKJ0EqLO4GUVJ0Mo",
+    "previewUrl": null,
+    "vibeTags": ["yearning", "90s", "melancholic", "sweet", "romantic", "alternative"],
+    "audio": { "energy": 0.55, "valence": 0.35, "tempo": 0.5, "acousticness": 0.25, "danceability": 0.5 },
+    "moodBlurb": "Feelings that won't fade when they should. The ache of wanting someone who's moved on."
+  },
+  {
+    "id": "nothing-compares-2-u",
+    "title": "Nothing Compares 2 U",
+    "artist": "Sinéad O'Connor",
+    "spotifyUrl": "https://open.spotify.com/track/5nnKHlavcNJUwdqN6SmJVQ",
+    "previewUrl": null,
+    "vibeTags": ["heartbreaking", "intimate", "raw", "powerful", "vulnerable", "90s"],
+    "audio": { "energy": 0.35, "valence": 0.1, "tempo": 0.35, "acousticness": 0.45, "danceability": 0.35 },
+    "moodBlurb": "A tear rolling down a shaved head. Loss so complete it rewrites your whole world."
+  },
+  {
+    "id": "clocks",
+    "title": "Clocks",
+    "artist": "Coldplay",
+    "spotifyUrl": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Cpo",
+    "previewUrl": null,
+    "vibeTags": ["urgent", "anthemic", "atmospheric", "anxious", "piano", "driving"],
+    "audio": { "energy": 0.75, "valence": 0.55, "tempo": 0.65, "acousticness": 0.2, "danceability": 0.55 },
+    "moodBlurb": "Piano arpeggios like time running out. The urgency of making things right before it's too late."
+  },
+  {
+    "id": "stay",
+    "title": "Stay",
+    "artist": "Rihanna ft. Mikky Ekko",
+    "spotifyUrl": "https://open.spotify.com/track/6JVHOkldSS7zIvjklGiPOC",
+    "previewUrl": null,
+    "vibeTags": ["vulnerable", "intimate", "emotional", "raw", "tender", "desperate"],
+    "audio": { "energy": 0.35, "valence": 0.2, "tempo": 0.4, "acousticness": 0.65, "danceability": 0.35 },
+    "moodBlurb": "The plea stripped to its bones. Wanting someone to stay despite every reason to leave."
+  },
+  {
+    "id": "strawberry-swing",
+    "title": "Strawberry Swing",
+    "artist": "Coldplay",
+    "spotifyUrl": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YWIk",
+    "previewUrl": null,
+    "vibeTags": ["dreamy", "nostalgic", "summery", "hopeful", "warm", "gentle"],
+    "audio": { "energy": 0.55, "valence": 0.6, "tempo": 0.55, "acousticness": 0.3, "danceability": 0.5 },
+    "moodBlurb": "Perfect summer afternoon caught in amber. The wish to stay in one moment forever."
+  },
+  {
+    "id": "bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "spotifyUrl": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J",
+    "previewUrl": null,
+    "vibeTags": ["epic", "dramatic", "theatrical", "emotional", "operatic", "rock"],
+    "audio": { "energy": 0.75, "valence": 0.35, "tempo": 0.55, "acousticness": 0.3, "danceability": 0.4 },
+    "moodBlurb": "Every emotion crammed into six minutes. The opera of guilt, defiance, and surrender."
+  },
+  {
+    "id": "skinny-love-bon-iver",
+    "title": "Skinny Love",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "raw", "melancholic", "winter", "folk", "heartbreaking"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.45, "acousticness": 0.85, "danceability": 0.3 },
+    "moodBlurb": "Cabin isolation and heartbreak. A voice cracking in the cold, begging love to stay."
+  },
+  {
+    "id": "holocene",
+    "title": "Holocene",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/3TBqCqwzF9xXjkDgj5eLSz",
+    "previewUrl": null,
+    "vibeTags": ["atmospheric", "contemplative", "ethereal", "vast", "intimate", "transcendent"],
+    "audio": { "energy": 0.35, "valence": 0.3, "tempo": 0.4, "acousticness": 0.6, "danceability": 0.35 },
+    "moodBlurb": "Realizing you're not magnificent against the span of time. The peace in smallness."
+  },
+  {
+    "id": "skinny-love-bon-iver-clone",
+    "title": "re: stacks",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/2HRqJAsXbwwL5qVHMn1FJf",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "redemptive", "melancholic", "winter", "acoustic", "quiet"],
+    "audio": { "energy": 0.15, "valence": 0.2, "tempo": 0.25, "acousticness": 0.95, "danceability": 0.2 },
+    "moodBlurb": "The end of the road and the start of healing. Everything lost, and somehow, hope remaining."
+  },
+  {
+    "id": "midnight-city",
+    "title": "Midnight City",
+    "artist": "M83",
+    "spotifyUrl": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "nocturnal", "electronic", "80s-inspired", "cinematic", "driving"],
+    "audio": { "energy": 0.8, "valence": 0.6, "tempo": 0.65, "acousticness": 0.05, "danceability": 0.65 },
+    "moodBlurb": "Neon lights and teenage freedom. The city at night when anything seems possible."
+  },
+  {
+    "id": "dancing-on-my-own",
+    "title": "Dancing On My Own",
+    "artist": "Robyn",
+    "spotifyUrl": "https://open.spotify.com/track/2VUkXKEKxhCqKLYtOoTKJn",
+    "previewUrl": null,
+    "vibeTags": ["bittersweet", "dance", "heartbreak", "empowering", "nocturnal", "anthemic"],
+    "audio": { "energy": 0.8, "valence": 0.45, "tempo": 0.7, "acousticness": 0.05, "danceability": 0.8 },
+    "moodBlurb": "Crying in the club and dancing through it. Heartbreak as a strobe-lit anthem."
+  },
+  {
+    "id": "somebody-else",
+    "title": "Somebody Else",
+    "artist": "The 1975",
+    "spotifyUrl": "https://open.spotify.com/track/1FqY3uJypma5wkYw66QOUi",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "synthy", "contemporary", "obsessive", "nocturnal", "heartbreak"],
+    "audio": { "energy": 0.55, "valence": 0.3, "tempo": 0.55, "acousticness": 0.1, "danceability": 0.6 },
+    "moodBlurb": "The torture of imagining them with someone new. Synth-pop jealousy at 2 AM."
+  },
+  {
+    "id": "youth",
+    "title": "Youth",
+    "artist": "Daughter",
+    "spotifyUrl": "https://open.spotify.com/track/4EY8x7tGnLJuZpOIYFmM6J",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "atmospheric", "raw", "youth", "intense", "building"],
+    "audio": { "energy": 0.55, "valence": 0.15, "tempo": 0.5, "acousticness": 0.35, "danceability": 0.35 },
+    "moodBlurb": "The slow burn of destructive love. Youth setting fire to itself in beautiful ways."
+  },
+  {
+    "id": "vienna",
+    "title": "Vienna",
+    "artist": "Billy Joel",
+    "spotifyUrl": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7",
+    "previewUrl": null,
+    "vibeTags": ["wise", "comforting", "nostalgic", "piano", "thoughtful", "timeless"],
+    "audio": { "energy": 0.45, "valence": 0.45, "tempo": 0.45, "acousticness": 0.65, "danceability": 0.4 },
+    "moodBlurb": "A parent's gentle warning. The wisdom that life isn't a race, heard at the right moment."
+  },
+  {
+    "id": "in-the-aeroplane-over-the-sea",
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "spotifyUrl": "https://open.spotify.com/track/7a8lCLamyBJBYwIuCLzAXr",
+    "previewUrl": null,
+    "vibeTags": ["raw", "passionate", "surreal", "nostalgic", "indie", "fervent"],
+    "audio": { "energy": 0.65, "valence": 0.4, "tempo": 0.55, "acousticness": 0.5, "danceability": 0.45 },
+    "moodBlurb": "Love letters to history and ghosts. The beautiful chaos of feeling too much."
+  },
+  {
+    "id": "a-sunday-kind-of-love",
+    "title": "A Sunday Kind of Love",
+    "artist": "Etta James",
+    "spotifyUrl": "https://open.spotify.com/track/6vAUctFpBxfJ0RQu5sQDxM",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "jazzy", "warm", "vintage", "tender", "classic"],
+    "audio": { "energy": 0.3, "valence": 0.45, "tempo": 0.35, "acousticness": 0.8, "danceability": 0.4 },
+    "moodBlurb": "Lazy morning love that lasts. The wish for something steady and true."
+  },
+  {
+    "id": "mad-girl",
+    "title": "Mad World (Donnie Darko Version)",
+    "artist": "Gary Jules & Michael Andrews",
+    "spotifyUrl": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP",
+    "previewUrl": null,
+    "vibeTags": ["eerie", "melancholic", "minimal", "disturbing", "observational", "haunting"],
+    "audio": { "energy": 0.15, "valence": 0.1, "tempo": 0.3, "acousticness": 0.85, "danceability": 0.2 },
+    "moodBlurb": "The world stripped to its coldest truth. Watching everyone pretend everything is fine."
+  },
+  {
+    "id": "somewhere-only-we-know",
+    "title": "Somewhere Only We Know",
+    "artist": "Keane",
+    "spotifyUrl": "https://open.spotify.com/track/35fRGbYdOSp4YnlvqMDRIh",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "tender", "piano", "hopeful", "bittersweet", "anthemic"],
+    "audio": { "energy": 0.6, "valence": 0.4, "tempo": 0.55, "acousticness": 0.35, "danceability": 0.45 },
+    "moodBlurb": "A secret place from childhood calling you back. The ache of growing up and wanting home."
+  },
+  {
+    "id": "the-scientist",
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "spotifyUrl": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "tender", "regretful", "piano", "heartbreaking", "apologetic"],
+    "audio": { "energy": 0.4, "valence": 0.2, "tempo": 0.4, "acousticness": 0.65, "danceability": 0.35 },
+    "moodBlurb": "The backward walk through a relationship. Wanting to go back to the start with someone."
+  },
+  {
+    "id": "wonderwall",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "spotifyUrl": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "90s", "anthemic", "romantic", "hopeful", "Britpop"],
+    "audio": { "energy": 0.6, "valence": 0.5, "tempo": 0.55, "acousticness": 0.45, "danceability": 0.5 },
+    "moodBlurb": "The person who saves you from yourself. Devotion disguised as a bar-band anthem."
+  },
+  {
+    "id": "skinny-love-original",
+    "title": "Skinny Love",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "raw", "melancholic", "folk", "heartbreaking", "winter"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.45, "acousticness": 0.85, "danceability": 0.3 },
+    "moodBlurb": "A cabin in the woods and a breaking voice. Love too fragile to save."
+  },
+  {
+    "id": "champagne-problems",
+    "title": "champagne problems",
+    "artist": "Taylor Swift",
+    "spotifyUrl": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "intimate", "piano", "literary", "sophisticated", "heartbreaking"],
+    "audio": { "energy": 0.35, "valence": 0.2, "tempo": 0.4, "acousticness": 0.75, "danceability": 0.35 },
+    "moodBlurb": "Saying no to a proposal and carrying it forever. The weight of disappointing love."
+  },
+  {
+    "id": "ivy",
+    "title": "ivy",
+    "artist": "Taylor Swift",
+    "spotifyUrl": "https://open.spotify.com/track/2a14HJcQTHfQUiNwekNwdi",
+    "previewUrl": null,
+    "vibeTags": ["folk", "romantic", "forbidden", "atmospheric", "nostalgic", "sapphic"],
+    "audio": { "energy": 0.45, "valence": 0.35, "tempo": 0.5, "acousticness": 0.65, "danceability": 0.45 },
+    "moodBlurb": "Forbidden love climbing like vines. The thrill and guilt of wanting what you shouldn't."
+  },
+  {
+    "id": "august",
+    "title": "august",
+    "artist": "Taylor Swift",
+    "spotifyUrl": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "bittersweet", "summer", "yearning", "folk", "fleeting"],
+    "audio": { "energy": 0.55, "valence": 0.35, "tempo": 0.55, "acousticness": 0.55, "danceability": 0.5 },
+    "moodBlurb": "A summer love that was never really yours. Chasing someone who belonged to someone else."
+  },
+  {
+    "id": "cardigan",
+    "title": "cardigan",
+    "artist": "Taylor Swift",
+    "spotifyUrl": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "melancholic", "folk", "tender", "confessional", "romantic"],
+    "audio": { "energy": 0.4, "valence": 0.25, "tempo": 0.45, "acousticness": 0.7, "danceability": 0.4 },
+    "moodBlurb": "First love remembered from a distance. Being made to feel old and new again."
+  },
+  {
+    "id": "the-night-we-met",
+    "title": "The Night We Met",
+    "artist": "Lord Huron",
+    "spotifyUrl": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "melancholic", "regretful", "atmospheric", "yearning", "folk"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.4, "acousticness": 0.55, "danceability": 0.35 },
+    "moodBlurb": "The wish to unknow someone. Time travel as heartbreak, wanting the beginning back."
+  },
+  {
+    "id": "vincent",
+    "title": "Vincent (Starry Starry Night)",
+    "artist": "Don McLean",
+    "spotifyUrl": "https://open.spotify.com/track/4wrKKrGrpUMi9YGCHPkDG4",
+    "previewUrl": null,
+    "vibeTags": ["tender", "artistic", "melancholic", "folk", "tribute", "beautiful"],
+    "audio": { "energy": 0.2, "valence": 0.3, "tempo": 0.3, "acousticness": 0.9, "danceability": 0.3 },
+    "moodBlurb": "Brushstrokes of sorrow and understanding. The loneliness of seeing too much beauty."
+  },
+  {
+    "id": "river",
+    "title": "River",
+    "artist": "Joni Mitchell",
+    "spotifyUrl": "https://open.spotify.com/track/25zhEBBMwdCzYB8YZfDfAK",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "winter", "confessional", "folk", "regretful", "intimate"],
+    "audio": { "energy": 0.2, "valence": 0.15, "tempo": 0.3, "acousticness": 0.95, "danceability": 0.25 },
+    "moodBlurb": "Christmas turned to grief. The wish to skate away from all the damage you've caused."
+  },
+  {
+    "id": "here-comes-the-sun",
+    "title": "Here Comes the Sun",
+    "artist": "The Beatles",
+    "spotifyUrl": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2",
+    "previewUrl": null,
+    "vibeTags": ["hopeful", "warm", "gentle", "optimistic", "spring", "classic"],
+    "audio": { "energy": 0.5, "valence": 0.75, "tempo": 0.55, "acousticness": 0.7, "danceability": 0.55 },
+    "moodBlurb": "The first warm day after a long winter. Relief and hope arriving like sunrise."
+  },
+  {
+    "id": "gypsy",
+    "title": "Gypsy",
+    "artist": "Fleetwood Mac",
+    "spotifyUrl": "https://open.spotify.com/track/0PfFB7a9y5SH3mjY7JCsHs",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "wistful", "80s", "feminine", "dreamy", "free"],
+    "audio": { "energy": 0.6, "valence": 0.5, "tempo": 0.55, "acousticness": 0.25, "danceability": 0.55 },
+    "moodBlurb": "Looking back at your wild younger self. The lightning that once lived in you, now settled."
+  },
+  {
+    "id": "romeo-and-juliet",
+    "title": "Romeo and Juliet",
+    "artist": "Dire Straits",
+    "spotifyUrl": "https://open.spotify.com/track/56JvjLxTJPtPVR0uFwIjBK",
+    "previewUrl": null,
+    "vibeTags": ["nostalgic", "romantic", "bittersweet", "80s", "storytelling", "melancholic"],
+    "audio": { "energy": 0.5, "valence": 0.35, "tempo": 0.5, "acousticness": 0.45, "danceability": 0.45 },
+    "moodBlurb": "First love now just a movie in someone else's life. The street serenader forgotten."
+  },
+  {
+    "id": "cannonball",
+    "title": "Cannonball",
+    "artist": "Damien Rice",
+    "spotifyUrl": "https://open.spotify.com/track/4sMhOeDKibY4LgHVxzRFaE",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "tender", "growing", "acoustic", "hopeful", "delicate"],
+    "audio": { "energy": 0.45, "valence": 0.4, "tempo": 0.5, "acousticness": 0.75, "danceability": 0.4 },
+    "moodBlurb": "The risk of opening up. Two voices braiding together, learning trust in real time."
+  },
+  {
+    "id": "halo",
+    "title": "Halo",
+    "artist": "Beyoncé",
+    "spotifyUrl": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "powerful", "anthemic", "hopeful", "devoted", "transcendent"],
+    "audio": { "energy": 0.65, "valence": 0.5, "tempo": 0.55, "acousticness": 0.35, "danceability": 0.5 },
+    "moodBlurb": "Love as spiritual awakening. Walls coming down, light flooding in everywhere."
+  },
+  {
+    "id": "stand-by-me",
+    "title": "Stand by Me",
+    "artist": "Ben E. King",
+    "spotifyUrl": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy",
+    "previewUrl": null,
+    "vibeTags": ["classic", "devoted", "warm", "timeless", "romantic", "comforting"],
+    "audio": { "energy": 0.5, "valence": 0.55, "tempo": 0.5, "acousticness": 0.5, "danceability": 0.55 },
+    "moodBlurb": "The simplest promise with the deepest meaning. Being there when everything else falls away."
+  },
+  {
+    "id": "both-sides-now",
+    "title": "Both Sides Now",
+    "artist": "Joni Mitchell",
+    "spotifyUrl": "https://open.spotify.com/track/0uLtz1dWWFJBBLmhN3DVGW",
+    "previewUrl": null,
+    "vibeTags": ["contemplative", "melancholic", "wise", "folk", "philosophical", "timeless"],
+    "audio": { "energy": 0.2, "valence": 0.25, "tempo": 0.3, "acousticness": 0.9, "danceability": 0.25 },
+    "moodBlurb": "The wisdom that comes from learning you knew nothing. Life's illusions reckoned with."
+  },
+  {
+    "id": "mad-about-you",
+    "title": "Mad About You",
+    "artist": "Hooverphonic",
+    "spotifyUrl": "https://open.spotify.com/track/5nIZk5H4r1qNdoqR8kKcVy",
+    "previewUrl": null,
+    "vibeTags": ["atmospheric", "trip-hop", "seductive", "nocturnal", "dark", "obsessive"],
+    "audio": { "energy": 0.4, "valence": 0.35, "tempo": 0.4, "acousticness": 0.25, "danceability": 0.5 },
+    "moodBlurb": "Obsession wrapped in velvet production. The madness that feels like the sanest thing."
+  },
+  {
+    "id": "lover",
+    "title": "Lover",
+    "artist": "Taylor Swift",
+    "spotifyUrl": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "tender", "warm", "hopeful", "wedding", "intimate"],
+    "audio": { "energy": 0.35, "valence": 0.55, "tempo": 0.4, "acousticness": 0.65, "danceability": 0.4 },
+    "moodBlurb": "Slow dancing in the living room. The quiet certainty of choosing someone every day."
+  },
+  {
+    "id": "the-stable-song",
+    "title": "The Stable Song",
+    "artist": "Gregory Alan Isakov",
+    "spotifyUrl": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo",
+    "previewUrl": null,
+    "vibeTags": ["folk", "nostalgic", "tender", "rural", "melancholic", "homecoming"],
+    "audio": { "energy": 0.3, "valence": 0.35, "tempo": 0.4, "acousticness": 0.85, "danceability": 0.35 },
+    "moodBlurb": "Coming home to find it different. The places that hold us together even when we leave."
+  },
+  {
+    "id": "youth-glass-animals",
+    "title": "Youth",
+    "artist": "Glass Animals",
+    "spotifyUrl": "https://open.spotify.com/track/1MRHsBaRlBgdYhicuVD3g0",
+    "previewUrl": null,
+    "vibeTags": ["dreamy", "warm", "devoted", "atmospheric", "indie", "psychedelic"],
+    "audio": { "energy": 0.45, "valence": 0.4, "tempo": 0.45, "acousticness": 0.25, "danceability": 0.55 },
+    "moodBlurb": "Carrying someone through their worst. Youth as devotion beyond reason."
+  },
+  {
+    "id": "lullaby",
+    "title": "Lullaby",
+    "artist": "The Cure",
+    "spotifyUrl": "https://open.spotify.com/track/2LnXJhX8cRp6d7nK6pNEZ7",
+    "previewUrl": null,
+    "vibeTags": ["eerie", "gothic", "creepy", "atmospheric", "dark", "nightmarish"],
+    "audio": { "energy": 0.5, "valence": 0.2, "tempo": 0.5, "acousticness": 0.15, "danceability": 0.55 },
+    "moodBlurb": "Spiderman is coming for you. Fear made hypnotic and almost comforting."
+  },
+  {
+    "id": "strange-and-beautiful",
+    "title": "Strange and Beautiful",
+    "artist": "Aqualung",
+    "spotifyUrl": "https://open.spotify.com/track/1q5VZDmaLotYO3qYoROGAv",
+    "previewUrl": null,
+    "vibeTags": ["tender", "melancholic", "romantic", "piano", "unrequited", "atmospheric"],
+    "audio": { "energy": 0.35, "valence": 0.25, "tempo": 0.4, "acousticness": 0.65, "danceability": 0.35 },
+    "moodBlurb": "Loving from a distance. The beauty of watching someone who doesn't know you exist."
+  },
+  {
+    "id": "skinny-love-bon-iver-final",
+    "title": "Skinny Love",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "raw", "melancholic", "folk", "heartbreaking", "winter"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.45, "acousticness": 0.85, "danceability": 0.3 },
+    "moodBlurb": "A cabin in the woods and a breaking voice. Love too fragile to save."
+  },
+  {
+    "id": "holocene-final",
+    "title": "Holocene",
+    "artist": "Bon Iver",
+    "spotifyUrl": "https://open.spotify.com/track/3TBqCqwzF9xXjkDgj5eLSz",
+    "previewUrl": null,
+    "vibeTags": ["vast", "contemplative", "ethereal", "spiritual", "transcendent", "atmospheric"],
+    "audio": { "energy": 0.35, "valence": 0.3, "tempo": 0.4, "acousticness": 0.6, "danceability": 0.35 },
+    "moodBlurb": "Smallness as comfort against eternity. The scale of geological time reducing everything to peace."
+  },
+  {
+    "id": "skinny-love-birdy-final",
+    "title": "Skinny Love",
+    "artist": "Birdy",
+    "spotifyUrl": "https://open.spotify.com/track/0e3VnKrCNLvB9p7Bz8YFMA",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "melancholic", "piano", "tender", "fragile", "young"],
+    "audio": { "energy": 0.3, "valence": 0.15, "tempo": 0.4, "acousticness": 0.9, "danceability": 0.3 },
+    "moodBlurb": "Heartbreak sung with impossible purity. Youth already knowing too much about loss."
+  },
+  {
+    "id": "atlas",
+    "title": "Atlas",
+    "artist": "Coldplay",
+    "spotifyUrl": "https://open.spotify.com/track/11Wl3jYwgPT9jXcWQfPYJW",
+    "previewUrl": null,
+    "vibeTags": ["epic", "melancholic", "carrying", "orchestral", "heroic", "sacrificial"],
+    "audio": { "energy": 0.5, "valence": 0.3, "tempo": 0.45, "acousticness": 0.4, "danceability": 0.35 },
+    "moodBlurb": "Carrying the weight of everyone you love. The heroism in choosing to keep going."
+  },
+  {
+    "id": "sinnerman",
+    "title": "Sinnerman",
+    "artist": "Nina Simone",
+    "spotifyUrl": "https://open.spotify.com/track/2H6kkGeDhkrL3UxZ7M4g3S",
+    "previewUrl": null,
+    "vibeTags": ["intense", "spiritual", "jazz", "powerful", "building", "desperate"],
+    "audio": { "energy": 0.85, "valence": 0.35, "tempo": 0.75, "acousticness": 0.6, "danceability": 0.55 },
+    "moodBlurb": "Running from judgment with nowhere to hide. The relentless pursuit of consequence."
+  },
+  {
+    "id": "hurt",
+    "title": "Hurt",
+    "artist": "Johnny Cash",
+    "spotifyUrl": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "raw", "regretful", "aged", "powerful", "devastating"],
+    "audio": { "energy": 0.25, "valence": 0.1, "tempo": 0.3, "acousticness": 0.75, "danceability": 0.25 },
+    "moodBlurb": "A life's worth of regret in a dying man's voice. Empire of dirt and fading memory."
+  },
+  {
+    "id": "i-will-always-love-you",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "spotifyUrl": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm",
+    "previewUrl": null,
+    "vibeTags": ["powerful", "romantic", "heartbreaking", "anthemic", "devoted", "emotional"],
+    "audio": { "energy": 0.55, "valence": 0.25, "tempo": 0.45, "acousticness": 0.35, "danceability": 0.35 },
+    "moodBlurb": "Love that survives goodbye. The dignity of leaving while loving completely."
+  },
+  {
+    "id": "the-winner-takes-it-all",
+    "title": "The Winner Takes It All",
+    "artist": "ABBA",
+    "spotifyUrl": "https://open.spotify.com/track/1lx7gRfhXbwwL5qFjcHT4T",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "dramatic", "pop", "heartbreaking", "theatrical", "resigned"],
+    "audio": { "energy": 0.6, "valence": 0.25, "tempo": 0.55, "acousticness": 0.3, "danceability": 0.55 },
+    "moodBlurb": "Divorce dressed in ABBA gold. The devastation of losing love's gamble completely."
+  },
+  {
+    "id": "blackstar",
+    "title": "Blackstar",
+    "artist": "David Bowie",
+    "spotifyUrl": "https://open.spotify.com/track/3jIeBYKOTQWcJxIlnRGSvM",
+    "previewUrl": null,
+    "vibeTags": ["eerie", "artistic", "final", "experimental", "dark", "transcendent"],
+    "audio": { "energy": 0.55, "valence": 0.2, "tempo": 0.45, "acousticness": 0.25, "danceability": 0.4 },
+    "moodBlurb": "Death transformed into art. A farewell from another dimension."
+  },
+  {
+    "id": "silent-night",
+    "title": "Silent All These Years",
+    "artist": "Tori Amos",
+    "spotifyUrl": "https://open.spotify.com/track/4QFW1WMCcJFAyNXqS9EiQF",
+    "previewUrl": null,
+    "vibeTags": ["confessional", "feminist", "piano", "raw", "intimate", "powerful"],
+    "audio": { "energy": 0.4, "valence": 0.25, "tempo": 0.45, "acousticness": 0.75, "danceability": 0.35 },
+    "moodBlurb": "A woman's voice finally breaking through. Years of silence transformed into music."
+  },
+  {
+    "id": "roads",
+    "title": "Roads",
+    "artist": "Portishead",
+    "spotifyUrl": "https://open.spotify.com/track/1Yo6v0pTZ5HDqBxIUZIcK7",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "trip-hop", "atmospheric", "raw", "wandering", "emotional"],
+    "audio": { "energy": 0.35, "valence": 0.15, "tempo": 0.4, "acousticness": 0.35, "danceability": 0.35 },
+    "moodBlurb": "Wandering through heartbreak in trip-hop fog. Asking questions with no answers."
+  },
+  {
+    "id": "only-time",
+    "title": "Only Time",
+    "artist": "Enya",
+    "spotifyUrl": "https://open.spotify.com/track/6UUKqV2RBBkJQ5HZGVgYLT",
+    "previewUrl": null,
+    "vibeTags": ["ethereal", "contemplative", "atmospheric", "peaceful", "new-age", "ambient"],
+    "audio": { "energy": 0.2, "valence": 0.35, "tempo": 0.35, "acousticness": 0.65, "danceability": 0.25 },
+    "moodBlurb": "Questions that only time can answer. Floating through uncertainty with grace."
+  },
+  {
+    "id": "unravel",
+    "title": "Unravel",
+    "artist": "Bjork",
+    "spotifyUrl": "https://open.spotify.com/track/3vLBTVlB2Gvfd6i9i2KjFI",
+    "previewUrl": null,
+    "vibeTags": ["intimate", "experimental", "delicate", "raw", "atmospheric", "vulnerable"],
+    "audio": { "energy": 0.2, "valence": 0.2, "tempo": 0.25, "acousticness": 0.55, "danceability": 0.25 },
+    "moodBlurb": "A relationship as thread slowly pulling apart. The tenderness of unraveling together."
+  },
+  {
+    "id": "my-immortal",
+    "title": "My Immortal",
+    "artist": "Evanescence",
+    "spotifyUrl": "https://open.spotify.com/track/4bGFVOUkh9GYWjSHjOTlCq",
+    "previewUrl": null,
+    "vibeTags": ["melancholic", "gothic", "haunting", "piano", "dramatic", "emotional"],
+    "audio": { "energy": 0.3, "valence": 0.1, "tempo": 0.35, "acousticness": 0.75, "danceability": 0.25 },
+    "moodBlurb": "A ghost that won't leave. The wound of someone gone but still everywhere."
+  },
+  {
+    "id": "total-eclipse-of-the-heart",
+    "title": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "spotifyUrl": "https://open.spotify.com/track/3vM9SXeGgIJ0XPvpgJy9sG",
+    "previewUrl": null,
+    "vibeTags": ["dramatic", "80s", "passionate", "powerful", "desperate", "anthemic"],
+    "audio": { "energy": 0.7, "valence": 0.25, "tempo": 0.55, "acousticness": 0.25, "danceability": 0.45 },
+    "moodBlurb": "Need as a force of nature. Turning around and finding everything dark."
+  },
+  {
+    "id": "cant-help-falling-in-love",
+    "title": "Can't Help Falling in Love",
+    "artist": "Elvis Presley",
+    "spotifyUrl": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC",
+    "previewUrl": null,
+    "vibeTags": ["romantic", "classic", "tender", "devoted", "timeless", "gentle"],
+    "audio": { "energy": 0.25, "valence": 0.5, "tempo": 0.35, "acousticness": 0.7, "danceability": 0.35 },
+    "moodBlurb": "Love as inevitable surrender. Some things are meant to be, and this is one."
+  }
+]
